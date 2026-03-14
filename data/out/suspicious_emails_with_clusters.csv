@@ -1,0 +1,2890 @@
+Unnamed: 0,file,message_id,date,sender,receiver,subject,body,person,folder,embedding_outlier,embedding_score,cluster
+12,138.txt,<27954483.1075861675545.JavaMail.evans@thyme>,"Tue, 30 Oct 2001 09:59:29 -0800 (PST)",steve.lafontaine@bankofamerica.com,jarnold@enron.com,stuff,"i hpe thingsa re ok for you.obviously a shit load of rumours circulating .
+we both know youll be ok personally but cant be fun. if i can help you know
+where im at. be cool",arnold,inbox,1,0.01023522739533217,1
+26,61.txt,<7566602.1075852730998.JavaMail.evans@thyme>,"Mon, 29 Oct 2001 12:28:54 -0800 (PST)",dudley.poston@williams.com,jarnold@enron.com,Phone Numbers,"Mine # is 918-573-5821 
+Brenden is 713-544-4214",arnold,inbox,1,0.0023780889509131264,4
+27,75.txt,<905155.1075855217234.JavaMail.evans@thyme>,"Sat, 15 Dec 2001 15:18:16 -0800 (PST)",my-login-request@yahoo-inc.com,jarnold@enron.com,Yahoo! ID Search Results,"The search results for your forgotten Yahoo ID are listed below:
+
+jarnold5329
+
+nymexdesk
+
+You can request a new password for your account
+by going to the Forgot Password screen.
+http://edit.my.yahoo.com/config/eval_forgot_pw
+
+Thank you for using Yahoo!",arnold,inbox,1,0.003437157650199585,4
+42,170.txt,<5558138.1075861676444.JavaMail.evans@thyme>,"Tue, 27 Nov 2001 14:21:17 -0800 (PST)",update@briefing.com,jarnold@ect.enron.com,Give a gift that will get used!,"[IMAGE] 	
+[IMAGE]	Not this year. Give a gift that will get used!   Give a subscription to Briefing.com this Holiday Season and cross a few names off your list!  It's an ideal gift for anyone interested in the markets. Whether they are just starting out or trade actively, Briefing.com has something for every investor.   And it's easy! Just fill out this  form . We'll automatically email the recipient and let them know they have been given much more than a gift - they have received access to powerful research tools, stock analysis and trading opportunities.   Give a gift that lasts all year. Give Briefing.com.",arnold,inbox,1,0.0018987155862201788,2
+95,51.txt,<28457755.1075852729263.JavaMail.evans@thyme>,"Sun, 28 Oct 2001 18:01:42 -0800 (PST)",caroline.abramo@enron.com,john.arnold@enron.com,S+P Commodity Index,"hi- not sure if you saw this with all the crap going on lately or have seen these contracts trading..one of the traders in Calgary called me Friday- one of his clients called asking about this indirectly.. said that he had heard of a $1B fund that was being set up to replicate the index.. the index is 17.7% nat gas (the highest % of any commodity).. the client wondered if that had anything to do with the nat gas rally!  i am trying to find out info on this $1 B fund.. no luck yet.. it would have a nice impact on the market if the fund had to buy 177M of nat gas contracts- 17,700 contracts in first 2 months..look at the 2 websites- www.nybot.com <http://www.nybot.com> (the futures and options) are traded there and the s+p site www.spglobal.com <http://www.spglobal.com>... the way they manage the futures is interesting..
+
+basic weightings: 
+
+energy: 44.29% (natty-17.7, unleaded-9.7%, heat- 12.9, crude-4.12)
+
+grains- 19.28%
+
+meats- 10.98%
+
+metals- 7.96%
+
+softs- 11.98%
+
+fibers- 5.51%
+
+please let me know if you have any info on this.
+
+thanks, c
+
+S&P and NYBOT Launch New Index Futures and Options Contracts
+
+New York, NY, October 19, 2001 - The New York Board of Trade (NYBOT)
+, in partnership with Standard & Poor's, began trading futures contracts this morning on the S&P Commodity Index (SPCI) - a new standard for commodities pricing. Officials from the New York City Mayor's Office for Economic Development as well as NYBOT and Standard & Poor's presided over the launch.
+
+Standard & Poor's, a leading provider of global financial information and investment analysis, and the New York Board of Trade, a global marketplace for alternative investment products, developed the SPCI to bring greater definition to traded commodities as an investable asset class. The SPCI was introduced at a ceremony at NYBOT on August 9, 2001. The SPCI futures and options allow managers and investors to add real diversification to their portfolios through a single, transparent access point to the investment opportunities found in commodity futures markets. 
+
+""The launch of this new product so soon after the events of September 11, and on a trading floor so imaginatively developed before the event, allowing NYBOT to start trading so soon after the loss of its facility in lower Manhattan, is a testament to the strength and the resilience of New Yorkers,"" said Michael G. Carey, President, New York City Economic Development Corporation. ""Let no one doubt that New York is and continues to be the financial and trading capital of the world.""
+
+""To contribute successfully to long-term portfolio goals, an alternative asset should have certain key characteristics, namely a proper benchmark, transparency, liquidity, simplicity, cost efficiency and flexible trading capabilities,"" said NYBOT President and CEO Mark D. Fichtel. ""SPCI futures and options are among the few investment instruments that meet all the criteria for a real alternative asset. We believe that these new contracts will prove particularly valuable to investors and managers who need alternative investment strategies in these difficult economic times.""
+
+The NYBOT SPCI futures contract lists six active contract months (January, February, April, June, August, November). Expiration is the second Friday of the listed futures contract month, and the contract is cash settled. The futures contract is valued at $100 x the Index (current contract value approximately $100,000). Trading hours initially will be 10:00 AM to 4:00 PM (New York Time). Options on futures are also offered (see contract specifications). 
+
+""SPCI futures and options give investors a direct means to obtain exposure to a diversified commodity basket,"" said Robert Shakotko, Standard & Poor's Managing Director of Index Services. ""Investors around the world recognize the S&P reputation for equity indices and index products. We now bring these same business strengths to commodities."" 
+
+The SPCI tracks 17 commodities in six sectors including grains, meat and livestock, metals, softs (coffee, sugar, cocoa), fibers, and energy. The index utilizes real-time prices of the relevant futures contracts traded on the commodities futures markets in New York and Chicago. Key features of the SPCI include its geometric calculation methodology and a weighting adjustment that eliminates double counting of upstream and downstream commodities. 
+
+The new SPCI futures and options contracts will support and enhance other index-linked investment products. They offer an easy and efficient way to manage commodity index funds, commodity-linked insurance products, or commodity exposure in multi-asset products. As with its equity indices, Standard & Poor's has initiated a licensing program for the SPCI directed at financial institutions that might use the new commodity index as part of an innovative investment product.
+
+End-of-day index values and index history are available through both the S&P Index Services website at www.spglobal.com <http://www.spglobal.com/indexmaincommodity.html> and NYBOT's Website at www.nybot.com <http://www.nybot.com/>. The SPCI is calculated every 15 seconds and is available through traditional real-time quote vendors via the NYBOT; the ticker symbol will be 'I'. 
+
+Standard & Poor's, a division of The McGraw-Hill Companies (NYSE: MHP), provides independent financial information, analytical services, and credit ratings to the world's financial markets. Among the company's many products are the S&P Global 1200, the first real-time, global equity index, the S&P 500, the premier U.S. portfolio index, and credit ratings on more than 220,000 securities and funds worldwide. With more than 5,000 employees located in 18 countries, Standard & Poor's is an integral part of the world's financial architecture. For more information, visit the Standard & Poor's Website at www.standardandpoors.com <http://www.standardandpoors.com/>.
+
+The New York Board of Trade (NYBOT) is the parent company of the Coffee, Sugar and Cocoa Exchange, Inc. (CSCE) and the New York Cotton Exchange (NYCE). Through its two exchanges and their subsidiaries and divisions NYBOT offers an expanding range of agricultural, currency and index products. Information about the New York Board of Trade can be found at www.nybot.com <http://www.nybot.com/>.",arnold,inbox,1,0.000225778314027425,2
+122,53.txt,<16257936.1075852729309.JavaMail.evans@thyme>,"Mon, 29 Oct 2001 05:59:32 -0800 (PST)",lenny.hochschild@enron.com,john.arnold@enron.com,RE: Rasheed,"Goldstein.
+
+ -----Original Message-----
+From: 	Arnold, John  
+Sent:	Saturday, October 27, 2001 11:55 AM
+To:	Hochschild, Lenny
+Subject:	RE: Rasheed
+
+that kid is hilarious.  Do you know what his last name is?
+
+ -----Original Message-----
+From: 	Hochschild, Lenny  
+Sent:	Friday, October 26, 2001 10:59 AM
+To:	Arnold, John
+Subject:	Rasheed
+
+I'm gonna GETCHA",arnold,inbox,1,0.002673462409347349,1
+68,499.txt,<22739527.1075857634230.JavaMail.evans@thyme>,"Mon, 16 Apr 2001 04:43:00 -0700 (PDT)",john.arnold@enron.com,francielou3224@comic.com,Re: Pay all bills with just 1 monthly payment! [y5i64],"fuck you
+
+<mn49@msn.com> on 04/16/2001 11:09:55 AM
+Please respond to francielou3224@comic.com
+To: uo2fnw@msn.com
+cc:  
+Subject: Pay all bills with just 1 monthly 
+payment!                                                   [y5i64]
+
+  Got debt? We can help using Debt Consolidation!
+
+If you owe $10,000 USD or more, consolidate your debt
+into just 1 payment and let us handle the rest!
+Wouldn't it be nice to have to worry about just 1
+fee instead of half a dozen? We think so too.
+
+- You do not have to own a home
+- You do not need another loan
+- No credit checks required
+- Approval within 3 business days
+- Available to all US citizens
+
+For a FREE, no obligation, consultation, please fill
+out the form below and return it to us. Paying bills
+should not be a chore, and your life should be as easy
+and simple as possible. So take advantage of this
+great offer!
+
+-=-=-=-=-=-=-=-=-=-=-
+
+(All fields are required)
+
+Full Name           :
+Address             :
+City                :
+State               :
+Zip Code            :
+Home Phone          :
+Work Phone          :
+Best Time to Call   :
+E-Mail Address      :
+Estimated Debt Size :
+
+-=-=-=-=-=-=-=-=-=-=-
+
+Thank You
+
+To receive no further offers from our company regarding
+this matter or any other matter, please reply to this
+e-mail with the word 'Remove' in the subject line.",arnold,sent,1,0.0017892817374768333,2
+83,258.txt,<19150335.1075857591262.JavaMail.evans@thyme>,"Mon, 21 Aug 2000 04:04:00 -0700 (PDT)",john.arnold@enron.com,john.lavorato@enron.com,Re:,"Is that hugs or kisses?
+
+John J Lavorato@ENRON
+08/21/2000 10:42 AM
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: Re:  
+
+XXXX XXX",arnold,sent,1,0.00635778753309757,1
+135,677.txt,<19511115.1075857638736.JavaMail.evans@thyme>,"Thu, 15 Feb 2001 05:39:00 -0800 (PST)",john.arnold@enron.com,andy.zipper@enron.com,RE:,"both.   i have it on dutch's machine just in case something ever pops up but 
+it rarely does
+
+From: Andy Zipper/ENRON@enronXgate on 02/15/2001 01:25 PM
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: RE:  
+
+I will send you the list. Are you having it removed because there is nothing 
+on it, or because you don't want ot support them ?
+
+ -----Original Message-----
+From:  Arnold, John  
+Sent: Thursday, February 15, 2001 12:43 PM
+To: Zipper, Andy
+Subject:  
+
+Andy:
+Can you remove ICE from mine and Mike Maggi's computer.   
+Also, do we have a list of who has it installed.  I hate supporting our 
+competition.
+John",arnold,sent,1,0.002589727786816598,4
+265,64.txt,<31606380.1075857586982.JavaMail.evans@thyme>,"Fri, 27 Oct 2000 09:30:00 -0700 (PDT)",john.arnold@enron.com,margaret.allen@enron.com,Re: The date,"it just wasn't the same without you.   how was el doritos?
+
+From: Margaret Allen@ENRON on 10/26/2000 05:33 PM
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: The date
+
+Oh, I got it -- you must have had a good date.  So tell me about it since I 
+missed it.",arnold,sent,1,0.008381649410245606,1
+275,367.txt,<26524504.1075857593624.JavaMail.evans@thyme>,"Thu, 6 Apr 2000 07:57:00 -0700 (PDT)",john.arnold@enron.com,jennifer.burns@enron.com,Re:,nope...your loss though,arnold,sent,1,0.00017532465790953689,1
+290,71.txt,<23131968.1075857587136.JavaMail.evans@thyme>,"Wed, 25 Oct 2000 05:25:00 -0700 (PDT)",john.arnold@enron.com,brian.hoskins@enron.com,Re: Implementation issue on IE5.0/5.5,"yea, i'll talk to them.
+
+who should i call?
+
+Brian Hoskins@ENRON COMMUNICATIONS
+10/25/2000 09:04 AM
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: Re: Implementation issue on IE5.0/5.5
+
+John,
+
+Looks like IT has decided not to install Internet Explorer 5.5 after all.  
+The program is ready to go as soon as that is installed.  Do you want to put 
+some pressure on them, or would you rather wait to see if they can fix it to 
+work on IE 5.0?  You have 5.5 by the way, so I'm not quite sure what the 
+problem is.  
+
+Brian
+
+Brian T. Hoskins
+Enron Broadband Services
+713-853-0380 (office)
+713-412-3667 (mobile)
+713-646-5745 (fax)
+Brian_Hoskins@enron.net
+
+----- Forwarded by Brian Hoskins/Enron Communications on 10/25/00 09:08 AM 
+-----
+
+	John Cheng@ENRON
+	Sent by: John Cheng@ENRON
+	10/24/00 08:52 PM
+
+		 To: Brian Hoskins/Enron Communications@ENRON COMMUNICATIONS
+		 cc: Marlin Gubser/HOU/ECT@ECT
+		 Subject: Re: Implementation issue on IE5.0/5.5
+
+Brian,
+
+We are not good to go here.  These are high profile traders and I do not want 
+to install IE55 just for this chatting application.  I would like for 
+Fangming to resolve whatever the problem is with IE5 first and go from there.
+
+Again, sorry to be a pain and I understand your situation, but developers 
+should not develop applications with unsupported dependencies.
+
+-jkc
+
+Brian Hoskins@ENRON COMMUNICATIONS
+10/24/2000 03:44 PM
+To: John Cheng/NA/Enron@Enron
+cc:  
+Subject: Re: Implementation issue on IE5.0/5.5  
+
+John,
+
+So are we good to go to install IE 5.5?  From you email yesterday, I was 
+under the impression that we were.  I understand that you guys need to keep 
+the integrity of the system, but these guys really need this program ASAP.  
+
+Again, if you need additional support, we can get that for you.  Just let me 
+know what you need to resolve the problem.
+
+Thanks,
+Brian
+
+Brian T. Hoskins
+Enron Broadband Services
+713-853-0380 (office)
+713-412-3667 (mobile)
+713-646-5745 (fax)
+Brian_Hoskins@enron.net
+
+	Fangming Zhu@ENRON
+	10/24/00 02:38 PM
+
+		 To: Brian Hoskins/Enron Communications@ENRON COMMUNICATIONS, John 
+Cheng/NA/Enron@Enron@ENRON COMMUNICATIONS
+		 cc: 
+		 Subject: Implementation issue on IE5.0/5.5
+
+All,
+As John suggested, I have contacted the Microsoft Expert on the IE 5.0/5.5 
+issue early this morning. We actually had a conversition over the phone. I 
+also sent him E-mail to describe the problem. So far I haven't heard anything 
+from him yet. I adoult if he can solve the problem. In order to solve this 
+browser issue, I suggest we can have 5-10 traders to install IE5.5 on their 
+PC. If everything works fine, we can update everyone into IE5.5. It is really 
+not my decision weather or not to use IE5.0 or 5.5. Right now everything is 
+ready for users to test the application except the browser issue. 
+
+Let me know when and how we are going to implement the messageboard 
+application. 
+
+Thanks,
+
+Fangming",arnold,sent,1,0.0014859555236262367,4
+307,760.txt,<6780532.1075857640567.JavaMail.evans@thyme>,"Thu, 11 Jan 2001 15:24:00 -0800 (PST)",john.arnold@enron.com,john.arnold@enron.com,,"speed on eol
+message for monday 
+how to move to algorithms
+dave or tom moran",arnold,sent,1,0.004191138536876748,4
+414,551.txt,<2503688.1075857635425.JavaMail.evans@thyme>,"Tue, 3 Apr 2001 01:16:00 -0700 (PDT)",john.arnold@enron.com,kim.ward@enron.com,,i've realized i'm too old to stay up til 1 on a school night,arnold,sent,1,0.011662208468651458,1
+438,343.txt,<15065863.1075857593104.JavaMail.evans@thyme>,"Mon, 12 Jun 2000 01:47:00 -0700 (PDT)",john.arnold@enron.com,vladimir.gorny@enron.com,,"Vlady:
+In preparation for our discussion tomorrow, can you run VAR numbers for some 
+mini-portfolios:
+
+Portfolio 1.   +1000 November Nymex
+                -1000 December Nymex
+
+ 2.     -1000 July Nymex Straddles
+
+ 3.     +1000 July 2002 Nymex
+
+ 4.     +1000 July 2002 Nymex
+         - 1000 August 2002 Nymex
+
+ 5.     +1000 July Socal Basis
+
+ 6.     +1000 July Chicago Basis
+          -1000 July Michcon Basis
+
+ 7.     +1000 July Henry Hub Index
+
+ 8.     +1000 July 2003 Chicago Basis
+
+Again, these are separate portfolios.  I'm trying to check that the VAR 
+numbers make logical sense.  
+Thanks,
+John",arnold,sent,1,0.002174175684152846,2
+447,424.txt,<14144909.1075857632594.JavaMail.evans@thyme>,"Fri, 11 May 2001 00:42:00 -0700 (PDT)",john.arnold@enron.com,ina.rangel@enron.com,Re: Question?,"yes
+
+Ina Rangel
+05/10/2001 05:47 PM
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: Question?
+
+John,
+
+Do you think we need to see about sending an IT Tech for you and Maggi on 
+Friday to make sure everything is working okay?   If we do, we would have to 
+pay for their travel expenses.
+
+It would be beneficial to you instead of having to be on the phone with IT 
+for any problems.
+
+Let me know.
+
+-Ina",arnold,sent,1,0.0002209295175236714,4
+469,544.txt,<26991437.1075857635275.JavaMail.evans@thyme>,"Wed, 4 Apr 2001 13:28:00 -0700 (PDT)",john.arnold@enron.com,sharad.agnihotri@enron.com,Re: Gas Implied Volatility Smile,"unfortunately, mathematical analysis of skew is extremely hard to do.  the 
+question is why does skew exist and does the market do a proper job of 
+correcting for violations of the black scholes model.  in my mind, there are 
+three big reasons for skew.  one is that the assumption of stochastic 
+volatility as a function of price level gets violated.  commodities tend to 
+have long range trading ranges that exist due to the economics of supply and 
+elasticity of the demand curve.  nat gas tends to be relatively stable when 
+we are in that historical pricing environment.  however, moving to a 
+different pricing regime tends to bring volatility.  an options trader wants 
+to be long vol outside the trading range, believing that a breakout of the 
+range leads to volatility while trying to find new equilibrium.  supports a 
+vol smile theory.  in addition, in some commodities realized vol is a 
+function of price level.  nat gas historically is more volatile at $5 than at 
+$4 and more volatile at $4 than $3.  thus there has been a tendency for all 
+calls to have positive skew and all puts except weenies to have negative 
+skew.  the market certainly trades this way as vol has a tendency to come off 
+in a declining market and increase in a rising market.  to test, regress 15 
+day realized vol versus price level and see if there is any correlation.  
+second reason is heptocurtosis, fatter tails than lognormal distribution 
+predicts.  supports vol smile theory.  easy to test how your market compares 
+by plotting historical one day lognormal returns versus expected 
+distribution.  
+third, is just supply and demand.  in a market where spec players are 
+bearish, put skew tends to get bid as vol players require more insurance 
+premium to add incremetal risk to the book.  if you have a neutral view 
+towards market, or believe that market will come off but in an orderly 
+fashion, enron can take advantage of our risk limits by selling more 
+expensive insurance.  crude market tends to have strong put skew and weak 
+call skew as customer business in options is nearly all one way: producer 
+fences.  if you believe vol is stochastic in the region of prices where the 
+fence strikes are, can be profitable to take other side of trade.  
+if you want to discuss further give me a call 4-6 pm houston time.  hope this 
+helps,
+john
+
+Sharad Agnihotri
+04/04/2001 12:44 PM
+To: Mike Maggi/Corp/Enron@Enron, John Arnold/HOU/ECT@ECT
+cc:  
+Subject: Gas Implied Volatility Smile
+
+John, Mike
+
+I work for the London Research team and am looking at 
+some option pricing problems for the UK gas desk.
+Dave Redmond the options trader told me that you had done 
+some fundamental research regarding 
+the gas implied volatility smiles and may be able to help.
+
+I would be grateful if you tell me 
+what you have done or suggest 
+someone else that I could ask.
+
+Regards
+Sharad Agnihtori",arnold,sent,1,0.003196785054338347,2
+471,236.txt,<27985676.1075857590787.JavaMail.evans@thyme>,"Tue, 29 Aug 2000 00:22:00 -0700 (PDT)",john.arnold@enron.com,fletcher.sturm@enron.com,Re:,"yes
+
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: Re:  
+
+Under the alternative ""bumping"" method, if the market is 3.75/5.25 and our 
+EOL and ICE market's are both 4/5 in that case, would we pay brokerage if 
+someone executes on ICE rather than EOL?
+
+Fletch",arnold,sent,1,0.0016373850122944344,2
+483,781.txt,<26962487.1075857641026.JavaMail.evans@thyme>,"Tue, 2 Jan 2001 09:16:00 -0800 (PST)",john.arnold@enron.com,enews@mail.pipingtech.com,Re: 24x7 Emergency Services,"take me off your mailing list
+
+""Piping Technology & Products, Inc."" <enews@mail.pipingtech.com> on 
+01/02/2001 04:59:48 PM
+To: <ptp-announcetemp@mail.pipingtech.com>
+cc:  
+Subject: 24x7 Emergency Services
+
+U.S. Bellows/PT&P: Manufacturer of Expansion Joints, Compensators and more.
+
+December  2000
+
+[IMAGE]
+
+www.pipingtech.com? |? www.usbellows.com? | www.swecofab.com?  
+
+U.S. Bellows Responds to Emergency  Order from Alaska Nitrogen Products, LLC 
+for a 48"" Dia. Expansion  Joint
+U.S.  Bellows, Inc., the expansion joint division of Piping  Technology & 
+Products, Inc., has once again shown its  dedication and devotion to its 
+customers by rushing to the emergency  call of Alaska Nitrogen Products, 
+LLC.? Alaska Nitrogen  Products called upon U.S. Bellows 24 x 7 
+quick-turn/emergency  service to aid them in the immediate replacement of a 
+deformed, 48""  diameter expansion joint when their G417 Pump failed suddenly 
+during  the plant startup.? The timeline of events demonstrates the  quick 
+engineering and manufacturing response from  U.S.Bellows:  
+
+[IMAGE]
+
+[IMAGE]
+07/21/00 (Friday) 5:30 p.m.,  U.S. Bellows receives an emergency call from  
+Alaska Nitrogen Products,  LLC.
+
+[IMAGE]
+07/22/00 (Saturday) U.S.  Bellows/PT&P builds the 48"" diameter expansion  
+joint and ships it to Alaska Nitrogen Products,  LLC on the same  day.
+
+[IMAGE]
+07/22/00 (Saturday) U.S.  Bellows/PT&P builds the 48"" diameter expansion  
+joint and ships it to Alaska Nitrogen Products,  LLC on the same  day.
+
+[IMAGE]
+
+Deformed  expansion joint at Alaska Nitrogen  Products
+
+[IMAGE]
+
+The 48""  Dia. expansion joint ready for shipment to  customer's  location
+
+[IMAGE]
+
+[IMAGE]
+
+?24 x 7 Quick-turn/Emergency Services
+
+?On-site Field Services
+
+[IMAGE]U.S. Bellows/PT&P is available on a 24x7 basis to  fulfill any 
+emergency requirements that might arise in the course of  plant shut-downs or 
+start-ups.? Using the unique web and  internet-based technology, the U.S. 
+Bellows ""on-call"" engineering  team guarantees a response time of 30 
+minutes.? For details  about this new service, please refer to 
+http://www.usbellows.com/emergency.html  or the U.S. Bellows' recent press 
+release (http://www.usbellows.com/news/pr03.htm)
+
+U.S. Bellows/PT&P has  extensive experience providing on-site services in 
+quick-turn or  emergency response situations.? U.S. Bellows/PT&P can  provide 
+on-site services for expansion joints (as well as for pipe  supports) which 
+include the following:?
+
+Installation  guidance.[IMAGE]  
+Inspection  and maintenance.[IMAGE]  
+Problem resolution  
+
+Quick-turn replacement  during shutdowns and turnarounds
+
+[IMAGE]
+
+? Discussion  Forum
+
+? Customer  Desktop
+
+[IMAGE]Post your product inquiries,  request for technical support, 
+comments/questions about PT&P and  its products here at PT&P Discussion  
+Forum.  
+
+To use this service, please register at  
+http://www.pipingtech.com/discussion.htm/
+
+[IMAGE]Using PT&P Customer Desktop, you can  check the shipping status of 
+your projects and jobs from anywhere in  the world, at anytime of day or 
+night.??  
+
+[IMAGE]
+Secured
+[IMAGE]
+Accurate  Information
+[IMAGE]
+Integratable with MS  Excel
+
+[IMAGE]Register today at http://www.pipingtech.net/CD_RegMain.asp?
+
+[IMAGE]
+
+? Catalogs
+
+[IMAGE]
+[IMAGE]
+[IMAGE]
+[IMAGE]
+Pipe Supports Catalog
+Expansion Joint Catalog
+Pre-insulated Pipe Supports  Catalog
+Instrument Supports  Catalog
+
+[IMAGE]
+[IMAGE]
+[IMAGE]
+
+Would you like for U.S.  Bellows to come out to your office to make a 
+technical presentation on  a specific topic (e.g. expansion joints) or to 
+make a general  presentation?? Contact U.S. Bellows Outside Sales at 
++1-713-731-0030  or on e-mail at sales@mail.pipingtech.com to  setup a time 
+and date.
+
+** U.S. Bellows,  Inc./Piping Technology & Products, Inc.?does not send 
+unsolicited  email.
+
+If you do not wish to receive future emails from U.S.  Bellows/Piping 
+Technology & Products, Inc. or relevant third parties,  please fill out the 
+unsubscribe form at http://www.pipingtech.com/forms/unsub.htm/?or  simply 
+reply to enews@mail.pipingtech.com with  unsubscribe in the subject line if 
+you do not have  internet connections.
+
+Feel free to send this  message to a friend or business associate or have 
+them fill our the  subscribe form at 
+http://www.pipingtech.com/forms/unsub.htm?or  send their email addresses to: 
+enews@mail.pipingtech.com to  be included in future E-Newsletters from U.S. 
+Bellows/Piping Technology  & Products, Inc.",arnold,sent,1,0.0017798898728234036,2
+532,743.txt,<15929105.1075857640199.JavaMail.evans@thyme>,"Wed, 24 Jan 2001 01:22:00 -0800 (PST)",john.arnold@enron.com,matthew.arnold@enron.com,,you bot 475 at 11.75,arnold,sent,1,0.0012341801346948955,2
+578,436.txt,<9657025.1075857632857.JavaMail.evans@thyme>,"Wed, 9 May 2001 01:22:00 -0700 (PDT)",john.arnold@enron.com,kim.ward@enron.com,,i couldnt do it.  it took 13 minutes for my alarm to wake me up.,arnold,sent,1,0.013968642416624044,1
+592,191.txt,<13252713.1075857589783.JavaMail.evans@thyme>,"Fri, 15 Sep 2000 10:29:00 -0700 (PDT)",john.arnold@enron.com,david.forster@enron.com,,"Dave:
+A couple things about the limit orders:
+
+1:  When a customer opens up the limit order box, I think the time open 
+should default to 12 hours.  We want the orders open as long as possible.  
+Now, it is more work to keep the order open for 12 hours than for 1 hour.  
+Traditionally, limit orders are a day order, good for the entire trading 
+session unless specified otherwise.  
+
+2.  Today Pete had 13,000/ day on his bid because he was hit for small size.  
+When I tried to place a limit order, the quantity had to be in 5,000 
+increments of 13,000 (i.e. 3000, 8000, 18000...).  I could not overwrite the 
+quantity to be 15,000.  
+
+3.  Everytime a limit order is placed, an error message occurs on the system 
+saying error trade, price not available.
+
+4.  Is there a way to modify a limit order, such as changing the price, 
+without canceling it and resubmitting a new one?  If not, this would be a 
+valuable feature.
+
+Thx,
+John",arnold,sent,1,0.00268977226379441,2
+641,487.txt,<31354695.1075857633964.JavaMail.evans@thyme>,"Fri, 20 Apr 2001 00:43:00 -0700 (PDT)",john.arnold@enron.com,wine@bassins.com,,"Hello, I noticed you carried several of the 98 Zoom Zins.  Any chance you 
+have the 33 year old vines version?  Please advise,
+John",arnold,sent,1,0.0057956649925808845,1
+679,678.txt,<29406493.1075857638757.JavaMail.evans@thyme>,"Thu, 15 Feb 2001 04:43:00 -0800 (PST)",john.arnold@enron.com,andy.zipper@enron.com,,"Andy:
+Can you remove ICE from mine and Mike Maggi's computer.   
+Also, do we have a list of who has it installed.  I hate supporting our 
+competition.
+John",arnold,sent,1,0.004599625638800842,4
+706,269.txt,<22637027.1075857591496.JavaMail.evans@thyme>,"Sat, 12 Aug 2000 05:30:00 -0700 (PDT)",john.arnold@enron.com,jennifer.burns@enron.com,,Congrats on your new job..,arnold,sent,1,0.010589308542985731,1
+764,285.txt,<28566105.1075857591844.JavaMail.evans@thyme>,"Thu, 3 Aug 2000 08:38:00 -0700 (PDT)",john.arnold@enron.com,"david.forster@enron.com, david.forster@enron.com",,"Hello:
+There is one feature that has not been transferred to the new stack manager.  
+When I sort by both counterparty and product at the bottom of the screen, the 
+position summary does not sort by both product and counterparty, just by 
+product.  It would be very useful if you can replace this. 
+Thanks,
+John",arnold,sent,1,0.000836609272524047,0
+786,332.txt,<6417254.1075857592862.JavaMail.evans@thyme>,"Wed, 5 Jul 2000 08:45:00 -0700 (PDT)",john.arnold@enron.com,dutch.quigley@enron.com,,"Please top level the following P&L out of my book because the market settled 
+limit down.
+
+ End of day position Amount settle was off in my estimation  Total amount 
+
+V0  -1700   -.035     595,000
+X0  6400   -.025     -1,6000,000    
+Z0  -1450   -.020     290,000 
+F1  4750   -.015     -712,500
+          --------------- 
+          -1,427,500",arnold,sent,1,0.0019850869034898633,2
+801,119.txt,<14775772.1075857588222.JavaMail.evans@thyme>,"Thu, 12 Oct 2000 09:08:00 -0700 (PDT)",john.arnold@enron.com,gary.taylor@enron.com,Re: SMUD deal Asian options,"sure
+
+To: John Arnold/HOU/ECT@ECT, Timothy M Norton/HOU/ECT@ECT, John 
+Griffith/Corp/Enron@Enron, Dutch Quigley/HOU/ECT@ECT
+cc:  
+Subject: Re: SMUD deal Asian options  
+
+John,
+
+Thank you for your flexibility regarding the asian option we purchased from 
+you (average Feb-Aug GD HH settle).  Unfortunately, our customer would like 
+to settle on 7 days, using the preceding day for any day for which Gas Daily 
+is not published (i.e., Friday prices would be used for Saturday and Sunday) 
+- so I know it's not your preference, but I need to take advantage of your 
+offer.
+
+Regards,
+Gary
+x31511
+
+John Arnold
+10/08/2000 02:05 PM
+To: Gary Taylor/HOU/ECT@ECT
+cc:  
+Subject: Re: SMUD deal Asian options  
+
+I can do it either way but would much rather just make it the simple average 
+of prices, 5 per week.
+
+	From:  Gary Taylor                           10/05/2000 07:25 PM
+
+To: John Arnold/HOU/ECT@ECT, John Griffith/Corp/Enron@Enron
+cc:  
+Subject: SMUD deal Asian options
+
+John(s),
+
+How will the Asian options we purchased from the gas desk settle with respect 
+to weekends... will the average of every day's gas daily settle mean the 
+average of only the days on which Gas Daily is published?  or will it triple 
+count each Friday's or Monday's price to account for the weekend (with a 
+similar calculation on weekends).  I assume it is the former, not the 
+latter.  Is this correct?  Are you indifferent if we want to switch to the 
+latter?  Intuitively, it would seem to me that at this point, it wouldn't 
+matter (because Friday or Monday prices are just as likely to be above the 
+average as below the average), but you're wearing the risk, not us - so let 
+me know.
+
+Frankly, we don't have a preference as a desk, except that we need the 
+settlement to be consistent with the deal we are entering into with SMUD.  
+SMUD has questioned our calculation and I need to know how much I need to 
+argue for one or the other.
+
+Regards,
+Gary
+x31511",arnold,sent,1,0.0030210860573844367,2
+803,680.txt,<29538655.1075857638801.JavaMail.evans@thyme>,"Tue, 13 Feb 2001 23:42:00 -0800 (PST)",john.arnold@enron.com,ina.rangel@enron.com,,"Ina:
+Can you get a small drink refrigerator for the office stocked with:
+Water (lots)
+Diet Coke
+Coke
+Dr. Pepper
+Diet Pepsi
+Various Fruit Drinks
+
+Thanks,
+John",arnold,sent,1,0.010597007599787489,2
+812,521.txt,<32069326.1075857634711.JavaMail.evans@thyme>,"Tue, 10 Apr 2001 00:09:00 -0700 (PDT)",john.arnold@enron.com,calvinniggemann1511@bikerider.com,"Re: Increase Sales, Accept Credit Cards! [139qu]",fuck you,arnold,sent,1,0.001001810654648383,0
+66,49.txt,<21371848.1075861029838.JavaMail.evans@thyme>,"Wed, 13 Feb 2002 12:03:13 -0800 (PST)",julie.clyatt@enron.com,"bill.abler@enron.com, sunil.abraham@enron.com, dipak.agarwalla@enron.com,",UBSW 401 K information,"All UBSW Energy employees can now go out and register on-line for you 401K plan selections. Individual fund investment performance can also be reviewed on-line once you have set up your password.  Due to the timing of the electronic feeds to Hewitt, your contributions will not begin until the 3/15 paycheck. 
+
+Savings & Investment Plan - 401(k)
+1-888-251-2500
+Can talk to a person directly from 9:30am - 6:00pm EST (call the # above, press *0)
+www.resources.hewitt.com/ubs <http://www.resources.hewitt.com/ubs>
+
+Thanks, Tony 
+(713) 853-7829",benson,inbox,1,0.005347699958383134,4
+67,61.txt,<17394832.1075862265870.JavaMail.evans@thyme>,"Tue, 27 Nov 2001 15:40:00 -0800 (PST)",distribution@pira.com,eileen@pira.com,PIRA's API Weekly Comment 11/27/01,"Attached is PIRA's latest ""API Weekly Comment.""
+
+If you have any questions regarding the report's content, please contact
+Dr. Gary Ross at (212) 686-6808, email: garyross@pira.com.
+
+Contact Client Services regarding PIRA report distribution and address
+changes at (212) 686-6808, email: support@pira.com.
+
+NOTE: Circulation of the ""API Weekly Comment"" outside a Client's
+licensed distribution area is strictly prohibited. Clients that are
+unsure of their licensed distribution or require an extension of their
+current license should contact their PIRA sales representative, or email
+to sales@pira.com.
+
+PIRA Energy Group
+
+ - api112701.pdf",benson,inbox,1,0.003784668870068675,2
+91,59.txt,<7604886.1075862265812.JavaMail.evans@thyme>,"Tue, 27 Nov 2001 12:45:45 -0800 (PST)",margaret.daffin@enron.com,m..presto@enron.com,Robert Benson's Visa,"Kevin:  Rob Benson called me this morning to ask about the process for Permanent Residency (Green Card).  At this time, I have been asked to hold on all new Green Card applications until further notice.
+
+However, we might want to amend Rob's visa status from L1B to L1A, making it easier, faster and cheaper to process the Green Card, hopefully in the near future.
+
+Rob was originally brought into the US in the capacity of Associate and this is why we used the L1B visa and not the L1A at that time.  Now that he is a Director, we should be able to amend his visa to L1A.  (The L1A is usually for Managers or above, or someone managing a function).
+
+Do I have your authority to go ahead with the amendment?  The approximate cost is $1,000.
+
+Thank you
+Margaret
+x51529",benson,inbox,1,0.0039605248512465385,2
+122,43.txt,<29179395.1075859469024.JavaMail.evans@thyme>,"Fri, 28 Dec 2001 09:04:54 -0800 (PST)",announcements.enron@enron.com,dl-ga-all_enron_houston_employees@enron.com,Metro Bus Passes and Woodlands Express Passes Available Effective,"Enron employees not participating in contract parking are eligible to receive Metro Bus Passes or Woodlands Express Passes.  You may pick up a bus pass from the Parking & Transportation Desk, on Level 3 of the Enron Building, from 8:30 AM to 4:30 PM. 
+
+All Metro passes offered through the Enron Parking & Transportation desk will be the Metro 30 Day Zone Pass.  When you use a 30-day zone pass, bus service is divided into four zones w/ unlimited rides.  The zone pass is time activated, which means that it will not become active until the first time it is used and will not expire until 30 days after it was used for the first time.  New passes will be available to Enron employees upon expiration of the 30 day time period. Each zone does have a different fare values based on the distance the bus travels. This is important to any buser who wants to transfer to or travel in a higher-cost zone than the zone pass they have, in this case the difference must be paid in cash.  If they are traveling in a lower cost zone, then there is no extra cost.  
+
+Parking & Transportation Desk
+3-7060",benson,inbox,1,0.0007776306163656543,2
+124,142.txt,<21483559.1075863386777.JavaMail.evans@thyme>,"Wed, 19 Sep 2001 06:36:06 -0700 (PDT)",40enron@enron.com,,Update to Virus Scanning Software,"Everyone, 
+
+You probably have already heard on the news that there is a new Computer Virus out on the internet that is causing Corporations to experience numerous problems.  We have an automated process to update our workstations with the latest virus protection updates.   However, there may be some machines that didn't get the update.  In order to prevent this virus from infecting your machine, please assist by doing one of the following tasks. 
+
+1.  Logout of the network and log back in or
+2.  Click on START>PROGRAMS>ACCESSORIES>Norton AntiVirus Corporate Edition and then click the Live Update button.  This will pop up a screen where you will have to click the ""Next"" button and then a ""Finish"" button.
+
+The proper version of the update pattern you need is:   (9/18/2001, version 30918v)
+
+If you have questions or concerns, please direct them to your Resolution Center.
+
+Enron Global Technology",benson,inbox,1,0.0031628608722577,4
+125,94.txt,<27542944.1075863385610.JavaMail.evans@thyme>,"Sun, 9 Sep 2001 22:08:48 -0700 (PDT)",ipayit@enron.com,robert.benson@enron.com,Action Requested:  Past Due Invoice,"Alert!
+You are receiving this message because you have an unresolved invoice in your iPayit in-box that is past due.  It is critical that you login to iPayit and take immediate action to resolve this invoice.
+
+Remember, you play an important role in ensuring that we pay our vendors on time.
+
+Tip!:  You must login to the system to forward this invoice to another user.
+
+You are receiving this message because you have an unresolved invoice in your iPayit in-box
+that is past due.  Please login to iPayit and resolve this invoice as soon as possible.
+
+To launch iPayit, click on the link below:
+http://iPayit.enron.com
+Note:  Your iPayit User ID and Password are your eHRonline/SAP Personnel ID and Password.
+
+First time iPayit user?  For training materials, click on the link below:
+http://sap.enron.com/sap_doclib/user/file_list.asp?cabinet_id=265
+
+Need help?
+Please contact the ISC Call Center at (713) 345-4727.
+
+If you are in Europe, please contact European Accounts Payable at +44 20 7783 7520.",benson,inbox,1,0.000982452387430166,4
+129,143.txt,<28494001.1075863386800.JavaMail.evans@thyme>,"Wed, 19 Sep 2001 08:25:57 -0700 (PDT)",40enron@enron.com,,Update to Virus Protection Software #2,"Everyone,
+
+As we stated earlier, this particular virus that is on the internet is causing a lot of issues for Corporations.  As a result, the companies who write anti-virus software are continuously updating their software.  As of this morning, another update has been made available to us.  This update does a better job of protecting your PC than the update we received last night.
+
+At this time, it is extremely important that you again go through one of the procedures listed below to get the latest update.  
+
+1.  Logout of the network and log back in or
+
+2.  Click on START>PROGRAMS>ACCESSORIES>Norton AntiVirus Corporate Edition and then click the Live Update button.  This will pop up a screen where you will have to click the ""Next"" button and then a ""Finish"" button.  - If you are an EES user, this option is not available to you.  Please use option 1.
+
+The proper version of the update pattern you need is:   (9/18/2001, version 30918BL) - You may need to restart the Norton Anti-Virus client if you want to visually insure that you have the latest update.
+
+If you have questions or concerns, please direct them to your Resolution Center.
+
+Enron Global Technology",benson,inbox,1,0.009376164582258428,4
+157,197.txt,<18620401.1075863388331.JavaMail.evans@thyme>,"Thu, 9 Aug 2001 19:27:23 -0700 (PDT)",40enron@enron.com,,"""Caring for the Caregiver"" - MD Anderson Brown Bag""","The cancer journey is sometimes lonely and frustrating for both those suffering with the disease and those providing care. But it can also be a time of friendship, personal growth, humor, and fulfillment. 
+
+Please join Marlene Lockey, Sr. Social Work Counselor at MD Anderson Cancer Center on Wednesday, August 15, 2001 at 11:30 a.m. in the Forum in 2AC (12th floor) for a Brown Bag session on ""Caring for the Caregiver."" Marlene has many stories to share, as well as many ways to cope with the challenges of living with cancer.  The presentation will be followed by an audience discussion, so please bring your questions and experiences.  Contact Laura Herrera -laura.herrera@enron.com  - if you would like to attend.  
+
+In addition to the brown bag session, MD Anderson Cancer Center will be hosting a two-day conference entitled ""Living Fully With Cancer,"" September 6-8, 2001.  For more information on the conference, please call MD Anderson at (713) 792-2553 or toll free at (800) 345-6324.
+
+Cancer is the nation's No. 1 health concern. How much do you really know about the disease? Find out by taking the American Cancer Society - Discovery Health Channel quiz <http://health.discovery.com/tools/quiz/acs/cancer_quiz.html>. Then learn how to reduce your risk of cancer by viewing a new series of informational ads <http://health.discovery.com/convergence/acs/acs.html> now showing on the Discovery Health Channel.
+
+Do you have cancer or know someone who does? There's hope.  Call MD Anderson today.",benson,inbox,1,0.020032671709937666,1
+158,69.txt,<16136389.1075863384976.JavaMail.evans@thyme>,"Mon, 5 Sep 0001 00:09:01 -0800 (PST)",ipayit@enron.com,robert.benson@enron.com,Action Requested:  Past Due Invoice,"Alert!  
+You are receiving this message because you have an unresolved invoice in your iPayit in-box that is past due.  It is critical that you login to iPayit and take immediate action to resolve this invoice. 
+
+Remember, you play an important role in ensuring that we pay our vendors on time. 
+
+Tip!:  You must login to the system to forward this invoice to another user. 
+
+You are receiving this message because you have an unresolved invoice in your iPayit in-box 
+that is past due.  Please login to iPayit and resolve this invoice as soon as possible.
+
+To launch iPayit, click on the link below:
+http://iPayit.enron.com
+Note:  Your iPayit User ID and Password are your eHRonline/SAP Personnel ID and Password.
+
+First time iPayit user?  For training materials, click on the link below:
+http://sap.enron.com/sap_doclib/user/file_list.asp?cabinet_id=265
+
+Need help?
+Please contact the ISC Call Center at (713) 345-4727.
+
+If you are in Europe, please contact European Accounts Payable at +44 20 7783 7520.",benson,inbox,1,0.000982452387430166,4
+164,45.txt,<12233351.1075859469078.JavaMail.evans@thyme>,"Fri, 28 Dec 2001 13:05:59 -0800 (PST)",administration.enron@enron.com,maintenance.dl-exchange@enron.com,"CORRECTION:  Outlook Outage - Friday, December 28, 2001","This is a notice to inform you that the server where your Outlook mailbox resides is scheduled for an outage tonight.  Your mailbox will be temporarily unavailable starting anytime after 11pm and may continue to be unavailable until 1 a.m., when all server maintenance work have been completed.  Outlook Web Access (OWA) will also be unavailable during this time.  
+
+Blackberry users:  Message delivery may be delayed for a few minutes.
+
+If you have any questions, please call the Resolution Center at x31411.",benson,inbox,1,0.015683808353523232,4
+169,193.txt,<26368799.1075863388236.JavaMail.evans@thyme>,"Thu, 9 Aug 2001 13:53:33 -0700 (PDT)",40enron@enron.com,,TEESSIDE POWER STATION INCIDENT UPDATE,"Earlier this evening, the police were able to confirm to Enron that all of our employees who tragically died or were injured as a result of yesterday's explosion have now been identified.  This means we are now in a position to give you some information about the members of staff:
+
+Graeme White
+Graeme, 37, is in a stable condition at Middlesbrough General Hospital.  He has worked as an Operator Technician at Teesside Power Station since October 1999.  Graeme lives in Billingham and is separated with two children.
+
+Paul Surtees 
+Paul was Engineering & Maintenance Manager at Teesside Power Station and first joined the company in 1992.   He was divorced with a young daughter and lived in Hawthorn, County Durham.  Paul died in Middlesbrough General Hospital earlier today.  He was 40.
+
+Andrew Sherwood
+Andrew was an Operator Technician at Teesside Power Station and first joined the company in March 1999.  He lived with his partner in Hartlepool.  Andrew died at the scene yesterday. He was 36.
+
+Darren Higgins
+Darren was also an Operator Technician at Teesside Power Station and first joined the company in October 1997.  He was unmarried and lived in Normanby near Middlesbrough.  Darren died at the scene yesterday.  He was 28 and leaves a young son living in Poland.
+
+We are continuing to offer as much support as possible to the families of these employees, as well as their friends and colleagues at the plant and associated sites across Enron.
+
+We understand that the last twenty-four hours have been extremely traumatic for everyone concerned. We appreciate there are many questions that remain unanswered, but for the moment our thoughts and prayers are with those we have lost and their families and friends.
+
+We will communicate more information about the incident as it becomes available.
+
+John Sherriff and Michael Brown",benson,inbox,1,0.0037256763564251782,0
+170,178.txt,<25970853.1075863387777.JavaMail.evans@thyme>,"Mon, 29 Oct 2001 09:41:24 -0800 (PST)",andy.pace@enron.com,"robert.benson@enron.com, joe.quenet@enron.com, jeffrey.miller@enron.com,",results of football pool,"Hello Everyone, 
+
+	This week again saw some upsets, both in college and pro games, however, the overall results were better this week than the past few weeks. In the college games, it was split between the Oklahoma and Nebraska game as far as who got it right, the Auburn/Arkansas game and UCLA/Stanford game were both missed by most people. Quite a few people also missed the Oregon/Washington St. game. 
+In the pros, the New Orleans/St.Louis game was missed by just about everyone, everyone missed the NY Giants/Washington game, the Minnesota/Tampa Bay game was missed by quite a few people, and the Arizona/Dallas game was also missed by about half the people. 
+
+	Through all that, Rob Benson is currently in the lead with only 5 games missed. Rob also picked Pittsburgh tonight. Still alive for the money with 6 games missed are Joe Quenet and Jeff Miller, who both picked Tennessee tonight. There were also 3 other people who have 6 wrong, however, they all chose Pittsburgh tonight. Therefore, if Pittsburgh wins tonight, then Rob will win outright. If Tennessee wins tonight, then it will come down to total points. Rob chose 38 points, Joe has 48 points and Jeff has 34 points. Therefore Jeff will win with a Tennessee victory and 35 or fewer total points, 36 he will tie with Rob. Rob will also win if Tennessee wins and the total points are from 37-42 and he will also tie with Joe at 43 points. Joe will win if Tennessee wins and there is 44 or more total points scored, 43 he will split with Rob. 
+
+	We raised the entry fee to $3 per entry this week and will continue that for the rest of the season unless enough people want it back down to $2. We had 34 entries this weekend, therefore the prize money is $102 !!  There is no Thursday night game this upcoming week, therefore this coming week's picks will be due on Friday. Following is each person who played this week with the amount of games they missed. 
+
+												Andy
+
+Rob Benson		5
+Joe Quenet		6
+Jeff Miller		6
+Reagan Mathews	6
+Tom Chapman		6
+Daniel Jenkins		6
+Rick Broussard		7
+Dave Ryan		7
+Jaime Gualy		7
+Larry Campbell		7
+Cory Willis		7
+Gautam Gupta		7
+Michele Wilks		8
+Bryce Schneider	8
+Andy Pace		8
+Pat Hanse		8
+Russell Ballato		8
+Kayne Coulter		8
+Steve Pan		8
+Carter Ellis		8
+Valerie Ramsower	9
+Robert Vargas		9
+Diana Allen		9
+Todd DeCook		9
+Thomas Lowell		9
+Ryan Williams		10
+Clayton Vernon		10
+Larry Jester		10
+Joe Brewer		10
+Mike Roan		11
+Smith Day		12
+Rudy Acevedo		12
+Ashish Mahajan		13
+Joe Step		15",benson,inbox,1,0.005408440627163391,1
+184,44.txt,<20069101.1075859469056.JavaMail.evans@thyme>,"Fri, 28 Dec 2001 11:55:33 -0800 (PST)",administration.enron@enron.com,maintenance.dl-exchange@enron.com,"NOTIFICATION:  Outlook Outage - Friday, December 28, 2001","This is a notice to inform you that the server where your Outlook mailbox resides is scheduled for an outage tonight.  Your mailbox will be temporarily unavailable starting anytime after 8pm and may continue to be unavailable until 12 a.m., when all server maintenance work have been completed.  Outlook Web Access (OWA) will also be unavailable during this time.  
+
+Blackberry users:  Message delivery may be delayed for a few minutes.
+
+If you have any questions, please call the Resolution Center at x31411.",benson,inbox,1,0.016523312515205557,4
+212,20.txt,<28419691.1075840372555.JavaMail.evans@thyme>,"Fri, 1 Feb 2002 08:40:37 -0800 (PST)",daniel.diamond@enron.com,"k..allen@enron.com, tim.belden@enron.com, robert.benson@enron.com,",Waiting on your reply -Stack Users,"If you're receiving this email its because we're still waiting on a response from you.  Please reply to this message ASAP.  See below for details.
+
+Thanks,
+
+Dan
+
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons). 
+or
+2) By opening the Stack Manager directly from your ""native"" desktop (stand alone computer).
+
+Please reply to this message with either a corresponding ""1"" or a ""2"" in the subject field.
+
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+
+Thank you,
+
+Dan Diamond",benson,inbox,1,0.0021115876718542093,4
+218,21.txt,<2423095.1075840372580.JavaMail.evans@thyme>,"Fri, 1 Feb 2002 07:16:06 -0800 (PST)",vladimir.gorny@enron.com,robert.benson@enron.com,FW:,"Rob,
+
+See tab ""Rob"" in the attached spreadsheet. Same story on Portfolio #2: reducing gas position, lowers VaR. I have ran two additional scenarios for Portfolio #2 with 2/3 and 1/2 of the original gas position. Let me know if you have questions.
+
+Vlady.
+-----Original Message-----
+From: Gorny, Vladimir 
+Sent: Friday, February 01, 2002 8:57 AM
+To: Sturm, Fletcher J.
+Subject: RE: 
+
+Fletch,
+
+The limits have been quoted using the 10d-99 measure. However, UBS will use all three measures.
+
+In Portfolio #2, Gas risk overweighs Power risk. NG-R4 correlation is 60%. If you reduce your NG position, risk will come down. See portfolio 2a with 20,000/day of J-V 02 Gas. Also, see my simple square root of some of squares calc in the updated spreadsheet.
+
+I will run Rob's scenarios sometime today and send it to you.
+
+Vlady.
+
+-----Original Message-----
+From: Sturm, Fletcher J. 
+Sent: Friday, February 01, 2002 7:16 AM
+To: Gorny, Vladimir
+Subject: RE: 
+
+Vladimir,
+
+Which measure are we going to be using at UBS?  VaR on portfolio #2 dosn't make sense to me that adding gas short to same position as #1c. increases risk.  What's up with that?  Also, could you forward the results from Rob Benson's portfolio's to me?  Thanks,
+
+Fletch",benson,inbox,1,0.004339918755010275,2
+234,241.txt,<23670781.1075863389707.JavaMail.evans@thyme>,"Wed, 22 Aug 2001 09:40:02 -0700 (PDT)",vince.crescenzi@gfinet.com,rbenson@enron.com,FW: Rules for blokes....,"***************************************************************
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+***************************************************************",benson,inbox,1,0.005498036864790279,2
+240,279.txt,<23069406.1075863390809.JavaMail.evans@thyme>,"Thu, 30 Aug 2001 14:51:49 -0700 (PDT)",administration.enron@enron.com,,Server Maintenance: Nahou-msmbx05v,"Mailbox move notification
+
+Tonight, starting at 6:00pm, we will be performing database maintenance on your Email server.  During this time, your mailbox will be intermittently unavailable for you to access.  Please close Outlook prior to 6:00pm. All maintenance is expected to be complete by 6:00am.
+
+If you have problems after this maintenance, please call the Resolution Center at x31411.",benson,inbox,1,0.001089897812213303,4
+63,312.txt,<8157058.1075863342736.JavaMail.evans@thyme>,"Thu, 25 Oct 2001 05:55:45 -0700 (PDT)",svarga@kudlow.com,svarga@kudlow.com,KUDLOW GUEST COMMENTARY -- Tom Nugent (10/25/2001),- kudlow 102501.doc,lavorato,inbox,1,0.006254192157856442,0
+145,342.txt,<17544655.1075863343543.JavaMail.evans@thyme>,"Wed, 24 Oct 2001 05:28:58 -0700 (PDT)",lavorato@sympatico.ca,lavorato@enron.com,Susan's address,"John:  Hope you, Dina and Michael are well.  As you requested I am
+sending you
+Susan's address:
+
+243 Gilmour Avenue                  416-762-2047
+Toronto, Ontario
+M6P 3B2
+Canada                                      Take care....Love Mom",lavorato,inbox,1,0.00863952516501193,1
+175,227.txt,<3136416.1075863340501.JavaMail.evans@thyme>,"Mon, 29 Oct 2001 15:45:10 -0800 (PST)",svarga@kudlow.com,svarga@kudlow.com,L. Kudlow's latest commentar (10/29/2001),- kudlow102901.doc,lavorato,inbox,1,0.035734981296301815,0
+182,91.txt,<30496503.1075861716589.JavaMail.evans@thyme>,"Wed, 21 Nov 2001 14:25:07 -0800 (PST)",loretta.brooks@enron.com,john.lavorato@enron.com,FW: my contact numbers,"John,
+Below is Don Black's contact information.
+
+Have a great Thanksgiving
+
+ -----Original Message-----
+From: 	Black, Don  
+Sent:	Wednesday, November 21, 2001 12:07 PM
+To:	Brooks, Loretta
+Subject:	my contact numbers
+
+Wednesday night through Thursday am
+
+cell	713 516 1384
+mom's	318 640 4288
+
+Thursday through Sunday
+
+cell	713 516 1384
+home	713 463 9673",lavorato,inbox,1,0.0005827522385080663,1
+260,252.txt,<8336250.1075863341184.JavaMail.evans@thyme>,"Sat, 27 Oct 2001 11:32:09 -0700 (PDT)",david.gorte@enron.com,"louise.kitchen@enron.com, john.lavorato@enron.com",NEPCO Project Status,"Louise and John,
+
+Attached is an EXCEL file with the status of NEPCO's portfolio of projects at September 30, 2001.  Please contact me if you require additional information.
+
+Regards,
+
+Dave",lavorato,inbox,1,0.0023118453476211887,2
+264,118.txt,<4798634.1075861717291.JavaMail.evans@thyme>,"Mon, 26 Nov 2001 16:29:05 -0800 (PST)",jeanie.slone@enron.com,john.lavorato@enron.com,trading ranking-a/a,Presto wanted to include Stepenovich (Sr. Spec) and Rikki Imai (Mngr-CS) on the list.,lavorato,inbox,1,0.00853092543570072,2
+3,510.txt,<21436313.1075845561935.JavaMail.evans@thyme>,"Sun, 10 Dec 2000 03:00:00 -0800 (PST)",john.lavorato@enron.com,"kim.melodick@enron.com, jeanie.slone@enron.com",,"vp ranking - call if I missed anyone.
+
+Allen - Superior
+Arnold - Strong
+Presto - Excellent
+Wolfe - Strong
+Lagrasta - Strong
+Baughman  - Strong
+Shively - Superior
+Sturm - Superior
+Neal - Excellent
+Martin- Excellent
+Schweiger - Excellent
+Belden - Superior
+Swerzman- Superior",lavorato,sent,1,0.003600250654681947,0
+18,465.txt,<19225712.1075845560915.JavaMail.evans@thyme>,"Mon, 27 Nov 2000 01:56:00 -0800 (PST)",john.lavorato@enron.com,sap.coe@enron.com,Please reset my password,Please reset my password.  My SAP P# is P00509247.,lavorato,sent,1,0.010200518327993291,4
+23,115.txt,<25053088.1075845553014.JavaMail.evans@thyme>,"Thu, 1 Jun 2000 00:37:00 -0700 (PDT)",john.lavorato@enron.com,vladimir.gorny@enron.com,Re: Power East Positions,"I hear you.  However, this big a difference doesn't make sense to me.  Are 
+the scalers and the vol marked correctly.",lavorato,sent,1,0.00494216061287589,2
+26,1287.txt,<11946877.1075857733610.JavaMail.evans@thyme>,"Mon, 3 Jan 2000 01:44:00 -0800 (PST)",john.lavorato@enron.com,dawn.doucet@enron.com,,"Dawn, call me on Lambie and Brodeur.",lavorato,sent,1,0.004282565058279397,0
+42,117.txt,<9742395.1075845553058.JavaMail.evans@thyme>,"Fri, 2 Jun 2000 00:47:00 -0700 (PDT)",john.lavorato@enron.com,david.delainey@enron.com,,"If Beth is our Systems person why is she in London.
+
+Lavo",lavorato,sent,1,0.0029613805370090063,0
+130,567.txt,<15828230.1075845563206.JavaMail.evans@thyme>,"Sun, 24 Dec 2000 00:45:00 -0800 (PST)",john.lavorato@enron.com,john.arnold@enron.com,,"rams -3.5
+wash -7
+raiders -9 1/2
+balt -5
+bears lions over 37
+eagles bengals under 35 1/2
+pats +4
+vikings +5.5",lavorato,sent,1,0.010388318227724236,0
+143,375.txt,<12729928.1075845558888.JavaMail.evans@thyme>,"Wed, 11 Oct 2000 05:39:00 -0700 (PDT)",john.lavorato@enron.com,mvanrassel@rpmtec.com,"Re: FW: Houston, we have a problem","I'm sensing that you don't have much to do during the day.  I'm thinking 
+about inviting Mark Waldren down at the same time.  Please advise.",lavorato,sent,1,0.00864866622509447,1
+144,407.txt,<10679565.1075845559605.JavaMail.evans@thyme>,"Fri, 27 Oct 2000 04:34:00 -0700 (PDT)",john.lavorato@enron.com,frank.hayden@enron.com,Re: Desk limit tool,"What if they have there current postions but bigger getting them to their 
+limits.  What would the agg var be.",lavorato,sent,1,0.0013472514283371928,2
+153,604.txt,<11949199.1075845564038.JavaMail.evans@thyme>,"Tue, 9 Jan 2001 07:55:00 -0800 (PST)",john.lavorato@enron.com,vladimir.gorny@enron.com,Re: Limits,So I didn't violate yesterday.,lavorato,sent,1,0.00986226380260219,1
+169,558.txt,<13509445.1075845563006.JavaMail.evans@thyme>,"Tue, 19 Dec 2000 22:53:00 -0800 (PST)",john.lavorato@enron.com,"david.delainey@enron.com, william.bradford@enron.com,",TDC Energy,"FYI
+
+---------------------- Forwarded by John J Lavorato/Corp/Enron on 12/20/2000 
+06:50 AM ---------------------------
+
+	From:  Colleen Sullivan @ ECT                           12/19/2000 11:27 AM
+
+To: John J Lavorato/Corp/Enron@Enron
+cc:  
+
+Subject: TDC Energy
+
+I need to make you aware of a potential lawsuit we may be filing jointly with 
+Columbia Energy Services/Nisource against TDC Energy regarding a CES 
+transaction.  I don't have every detail yet, but I wanted to fill you in 
+because this is moving quite quickly.
+
+TDC Energy is a small privately owned producer that had several deals with 
+CES that ENA acquired in last year's transaction.  Four of those transactions 
+were costless collars that are deep in the money for us.  TDC is disputing 
+the existence of these collars because CES never sent confirmations for 
+them.   We have taken the position with CES that if TDC defaults it is CES' 
+exposure, not ENA's.  The total value of these collars as of today is 
+approximately $4,800,000.   I have been working with Jeff Hodge on this issue 
+and we believe that, because of several different reasons, ENA should file 
+the lawsuit with TDC jointly.  I'll be happy to meet with you if you're 
+interested and explain the reasons for this.
+
+In addition, ENA has other deep in the money fixed priced transactions with 
+TDC worth an estimated $5,000,000 (unofficially from R. Diamond in Credit)   
+TDC has not disputed these transactions and so far all is fine with these; 
+however, we fear that TDC may be facing financial difficulties--if they go 
+bankrupt, we have exposure on the $5,000,000 of fixed price transactions, 
+plus potentially all or part of the other $4,800,000 of financial collars.  
+Jeff Hodge is meeting today with CES' outside attorneys to discuss where we 
+should file the lawsuit and I get the impression that it is already drafted 
+and will be filed very soon.  Please let me know if you want to talk through 
+this.",lavorato,sent,1,0.0009832416798300492,2
+178,148.txt,<2595348.1075845553756.JavaMail.evans@thyme>,"Tue, 27 Jun 2000 00:06:00 -0700 (PDT)",john.lavorato@enron.com,tim.belden@enron.com,Re: Alberta Power Purchase Arrangement Auction,We're back baby.,lavorato,sent,1,0.00024184739017413248,0
+182,410.txt,<14103517.1075845559672.JavaMail.evans@thyme>,"Fri, 27 Oct 2000 04:50:00 -0700 (PDT)",john.lavorato@enron.com,bob.crane@enron.com,Re: poaching your guys,I'm sorry but I think its my only child syndrome.,lavorato,sent,1,0.01110612227114044,1
+207,213.txt,<9509343.1075845555247.JavaMail.evans@thyme>,"Fri, 28 Jul 2000 00:41:00 -0700 (PDT)",john.lavorato@enron.com,john.sherriff@enron.com,"Re: Breaking ""Loss Limits""","John
+
+I asked about loss limits a couple months ago and Ted said that they no 
+longer report these numbers to the board. However, I think we should get rid 
+of the whole concept.  VAR is the relevant concept.
+
+Please advise.",lavorato,sent,1,0.004761835176666673,2
+217,171.txt,<6380316.1075845554277.JavaMail.evans@thyme>,"Wed, 12 Jul 2000 02:50:00 -0700 (PDT)",john.lavorato@enron.com,vince.kaminski@enron.com,Re: Resume of a former FX trader,This is the most bizarre resume I've seen in a long time.,lavorato,sent,1,0.0026136051075972278,0
+245,204.txt,<15366741.1075845555039.JavaMail.evans@thyme>,"Fri, 21 Jul 2000 09:58:00 -0700 (PDT)",john.lavorato@enron.com,david.oxley@enron.com,"Re: Shively, Sturm and Neal",You didn't attach anything.,lavorato,sent,1,0.004374289095959383,1
+248,73.txt,<9906789.1075845552083.JavaMail.evans@thyme>,"Wed, 10 May 2000 05:37:00 -0700 (PDT)",john.lavorato@enron.com,michael.moscoso@enron.com,Re: Global Risk Management,"I just sent an email to Chris telling him to stop sending me this email.  I 
+guess he needs to send it.",lavorato,sent,1,0.0046390264784754165,4
+259,370.txt,<21303869.1075845558760.JavaMail.evans@thyme>,"Sun, 8 Oct 2000 13:00:00 -0700 (PDT)",john.lavorato@enron.com,molly.magee@enron.com,Re: David Jallits,"I not sure I know who David Jallits is,",lavorato,sent,1,0.009157085277760657,0
+295,43.txt,<16242323.1075845551415.JavaMail.evans@thyme>,"Thu, 16 Mar 2000 07:08:00 -0800 (PST)",john.lavorato@enron.com,dawn.doucet@enron.com,Re: Parking,So your overrulling me again.,lavorato,sent,1,0.00014253785906531702,0
+306,340.txt,<32631769.1075845558089.JavaMail.evans@thyme>,"Mon, 25 Sep 2000 03:27:00 -0700 (PDT)",john.lavorato@enron.com,hoyt.thomas@enron.com,Re: Martin Cuilla,"Hoyt 
+
+Did you get me response on Martin.",lavorato,sent,1,0.001107801932547281,0
+340,551.txt,<2514158.1075845562847.JavaMail.evans@thyme>,"Tue, 19 Dec 2000 02:43:00 -0800 (PST)",john.lavorato@enron.com,david.delainey@enron.com,,"Does EES still get to buy PC's for their employees' spouses.  
+
+I guess we are paying for that too.",lavorato,sent,1,0.004218179554185297,2
+377,41.txt,<9079236.1075845551370.JavaMail.evans@thyme>,"Tue, 7 Mar 2000 23:25:00 -0800 (PST)",john.lavorato@enron.com,john.metzler@enron.com,Re: Net Energy Clearing Corp (NECC),"I've never heard of them.
+Sorry.",lavorato,sent,1,0.002235858213950115,0
+382,544.txt,<24434500.1075845562692.JavaMail.evans@thyme>,"Sun, 17 Dec 2000 07:33:00 -0800 (PST)",john.lavorato@enron.com,kimberly.hillis@enron.com,Re: Holiday Dinner,Kim can you also invite Mike Roberts.,lavorato,sent,1,0.0030444284755700712,1
+399,79.txt,<32960688.1075845552216.JavaMail.evans@thyme>,"Thu, 11 May 2000 06:53:00 -0700 (PDT)",john.lavorato@enron.com,rick.buy@enron.com,Re: VAR,Ignore Shankman - I think that was a bit of joke.,lavorato,sent,1,0.0005308202789970351,0
+409,391.txt,<6708967.1075845559247.JavaMail.evans@thyme>,"Tue, 17 Oct 2000 06:08:00 -0700 (PDT)",john.lavorato@enron.com,mvanrassel@rpmtec.com,"RE: FW: Houston, we have a problem","6437 Mercer St
+
+In West University.
+
+2 1/2 blocks from University Avevue between University Avenue and Holcombe.
+
+713-661-6096.",lavorato,sent,1,0.008498904579443856,4
+410,408.txt,<8799098.1075845559627.JavaMail.evans@thyme>,"Fri, 27 Oct 2000 04:38:00 -0700 (PDT)",john.lavorato@enron.com,james.steffes@enron.com,Re: Update On CA ISO Price Caps -- MAY NOT VOTE TO LOWER,Apparently not eh.,lavorato,sent,1,0.0047906787725842115,0
+439,569.txt,<18760488.1075845563251.JavaMail.evans@thyme>,"Mon, 25 Dec 2000 23:44:00 -0800 (PST)",john.lavorato@enron.com,"rick.buy@enron.com, ted.murphy@enron.com",,"hey guys
+
+I know my limit goes done on Wednesday night.  I saw some memo a while ago 
+that said it goes to 70 until Jan 2 and then 60.  Is this correct or does is 
+go to 60 immediately.
+
+John",lavorato,sent,1,0.00047662680988608264,2
+486,556.txt,<25081896.1075845562959.JavaMail.evans@thyme>,"Tue, 19 Dec 2000 22:49:00 -0800 (PST)",john.lavorato@enron.com,stinson.gibner@enron.com,Re: Simulation for EOL WTI trading,These assumptions are correct for now.,lavorato,sent,1,0.012262305781385985,2
+495,243.txt,<25251576.1075845555916.JavaMail.evans@thyme>,"Mon, 7 Aug 2000 02:29:00 -0700 (PDT)",john.lavorato@enron.com,rick.buy@enron.com,,Thanks for the increased VAR.  We got it right this time.,lavorato,sent,1,0.004215938275692055,2
+501,121.txt,<10100730.1075845553147.JavaMail.evans@thyme>,"Fri, 2 Jun 2000 09:10:00 -0700 (PDT)",john.lavorato@enron.com,celeste.roberts@enron.com,Re: John Lavorato Request,Call me,lavorato,sent,1,0.0074780172540689915,1
+514,444.txt,<23936618.1075845560443.JavaMail.evans@thyme>,"Mon, 13 Nov 2000 13:09:00 -0800 (PST)",john.lavorato@enron.com,per.sekse@enron.com,Re: CSFB Details and Models,"Congrats
+
+John",lavorato,sent,1,0.0014264758732790983,1
+539,23.txt,<9684505.1075845550970.JavaMail.evans@thyme>,"Sun, 13 Feb 2000 03:20:00 -0800 (PST)",john.lavorato@enron.com,julie.flahaven@enron.com,Re: Montreal Power/Lucy Marshall,Julie please call me.,lavorato,sent,1,0.002427740655734645,1
+554,321.txt,<18497386.1075845557658.JavaMail.evans@thyme>,"Sun, 17 Sep 2000 13:36:00 -0700 (PDT)",john.lavorato@enron.com,lavorato@sympatico.ca,Re: Hey John!,"hi nana
+its micael",lavorato,sent,1,0.004352287575505542,0
+561,269.txt,<27890045.1075845556497.JavaMail.evans@thyme>,"Fri, 18 Aug 2000 05:29:00 -0700 (PDT)",john.lavorato@enron.com,christopher.calger@enron.com,Re: QBR,Chris ask Dave he is still the king of your world in my mind.,lavorato,sent,1,0.006556273805066237,0
+567,296.txt,<22031355.1075845557104.JavaMail.evans@thyme>,"Tue, 5 Sep 2000 14:28:00 -0700 (PDT)",john.lavorato@enron.com,david.oxley@enron.com,,"I keep hearing that Mcsherry is gone yet his xxxxxx name keeps coming up.
+
+Lavo",lavorato,sent,1,0.003249964683742057,0
+589,456.txt,<10993770.1075845560715.JavaMail.evans@thyme>,"Sat, 25 Nov 2000 12:08:00 -0800 (PST)",john.lavorato@enron.com,kevin.presto@enron.com,Re: Friday Visit,"Kevin
+
+Give me a call on this one.",lavorato,sent,1,0.0071497867361965395,0
+592,442.txt,<12423420.1075845560397.JavaMail.evans@thyme>,"Mon, 13 Nov 2000 12:52:00 -0800 (PST)",john.lavorato@enron.com,jeff.donahue@enron.com,Re:,"Kyle is working on the PPA.  However, Dave and I told Kyle that unless he can 
+get Fastow to sign something that we can walk on the counterparty (in 
+otherwords that it is truly non recourse) we are not interested.  
+
+Let me know if we are missing something.",lavorato,sent,1,0.0007173118286252222,2
+599,27.txt,<1466612.1075845551061.JavaMail.evans@thyme>,"Sun, 13 Feb 2000 03:46:00 -0800 (PST)",john.lavorato@enron.com,angela.mcculloch@enron.com,,"I need to do my reviews before I go to Hawaii.  Please write out instructions 
+on how I can do them on the computer.",lavorato,sent,1,0.010456252777075126,3
+610,291.txt,<13975190.1075845556992.JavaMail.evans@thyme>,"Tue, 5 Sep 2000 13:54:00 -0700 (PDT)",john.lavorato@enron.com,kelly.johnson@enron.com,Re: Board of Directors Meeting - August 1st,"Looks good to me.
+
+John Lavorato",lavorato,sent,1,0.0026387733784401513,0
+622,124.txt,<30303938.1075845553214.JavaMail.evans@thyme>,"Tue, 6 Jun 2000 04:36:00 -0700 (PDT)",john.lavorato@enron.com,ted.murphy@enron.com,Re: Authorized Traders List - Latest and Greatest,Looks good.,lavorato,sent,1,0.00022490714867878792,0
+627,440.txt,<12138913.1075845560354.JavaMail.evans@thyme>,"Mon, 13 Nov 2000 12:43:00 -0800 (PST)",john.lavorato@enron.com,david.delainey@enron.com,Re:,Do you think Janet wants to apply.,lavorato,sent,1,0.003936459830173211,0
+629,441.txt,<7766952.1075845560375.JavaMail.evans@thyme>,"Mon, 13 Nov 2000 12:44:00 -0800 (PST)",john.lavorato@enron.com,janet.dietrich@enron.com,Re:,"Janet 
+
+Call me.",lavorato,sent,1,0.0049183579545578615,1
+2,29.txt,<12582237.1075858930113.JavaMail.evans@thyme>,"Wed, 11 Jul 2001 10:51:36 -0700 (PDT)",isc.registrar@enron.com,sscott5@enron.com,User account activated,"Dear SUSAN,
+
+Your user account has been activated in the Learning Management System.
+
+You may log in to the system by using your email address and date of birth as your login ID/password.
+
+Thank you.",scott,inbox,1,0.01833074777179644,4
+4,114.txt,<9490350.1075858932306.JavaMail.evans@thyme>,"Wed, 12 Sep 2001 13:43:45 -0700 (PDT)",ehillegeist@hotmail.com,sscott5@enron.com,,"where are you?  it's been ages since i heard from you- are you ok?  you know
+it makes me nervous when you go AWOL.....matt called this morning and he
+sounds really bad.  is doing that oh-so-familiar over-analyzing and
+internalizing that would make almost anyone suicidal considering the
+situation.  just want to be home so badly.  feel so isolated here.  wish we
+were all out on the walker's patio now chatting, and i was with mom and dad
+and harls.  i think that's the only place where i'd feel safe and reassured
+and as close to happy as i could be right now.  kind of like the way
+everyone described josh's funeral.  horrifying, but as good a company to
+rebound with as you could find probably.  has been such a long and draining
+month emotionally and physically, and am just gutted. hope you're a bit more
+buoyant rt now han i am.  am trying to get home asap, but mom and dad don't
+want me to fly.  am not worried about it, and am going to try to get on
+first flight possible anyways, so may see y'all soon....pls email and let me
+know you're still alive and in proportionally good spirits...
+e
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp",scott,inbox,1,0.0001752528720634916,1
+51,12.txt,<14862014.1075858929465.JavaMail.evans@thyme>,"Mon, 4 Jun 2001 09:51:24 -0700 (PDT)",dutch.quigley@enron.com,m..scott@enron.com,,"Two statues in a city park, one female and one male, had faced each
+other for many years. One morning, an angel appeared and told the
+statues, ""Since you have both brought enjoyment to many people for
+years, I'm giving you your greatest wish and bringing you to life for 30
+minutes. In that time you may do whatever you like."" And the statues
+came to life.
+
+Smiling at each other, they ran toward a stand of trees and dove behind
+a couple of bushes. The angel smiled as she listened to them giggling
+and rustling in the grass. After 15 minutes, the statues emerged from
+the bushes, smiling and happy. The angel was puzzled. ""You still have 15
+minutes. Would you like to continue?""
+
+The male statue looked at the female and asked, ""Do you want to do it
+again?""
+""Oh, yes!"" the female statue said. ""But this time YOU hold the pigeon
+down and I'LL poop on its head!""",scott,inbox,1,0.0035895217981963268,1
+63,449.txt,<20994894.1075861135907.JavaMail.evans@thyme>,"Sun, 24 Mar 2002 21:06:31 -0800 (PST)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--ha-ha,"ha-ha (ha-ha) noun
+
+   Sunk fence.
+
+[From French haha, reduplicative of ha!, exclamation of surprise, that might
+come out when tripped by such an obstacle.]
+
+   ""They covet our haha fences, tucked out of view by ditches and so named
+   because of their surprise value.""
+   Tina Kelley, Zoo Nice To See You: Woodland Park Basks In Spotlight,
+   The Seattle Post-Intelligencer, Sep 19, 1995.
+
+Instead of explaining in a thousand words what a ha-ha looks like,
+I'll show you a picture: http://www.yale.edu/yup/images/bormann3.jpg
+Etymologists claim we got the word ha-ha from ha!, the sound one might
+exclaim on getting tripped by that trap, otherwise known as a sunken
+fence.  I'm sure they have done their research and are right. But I
+can't help thinking it might have been derived from the laughter of
+a French aristocrat when an unsuspecting guest tripped while visiting
+his chateau.
+
+Ah-ha, that gives me an idea, just in time for this April Fool's Day!
+I think I'll call a landscape designer.
+
+""Hi, Mr. Dougwell? I'd like to order a ha-ha around my apartment.""
+""You'd like to order what?""
+""Ha-ha! You think you can do it by next week? I've some visitors coming
+ over. And don't forget to bring your Hard Hat and Hack Hammer.""
+
+All kidding aside, what's the brouhaha about this thing? In the 18th
+century someone came up with the clever idea of a fence that let the
+property owner have an unhindered view of the landscape, giving an
+illusion of contiguous land, while protecting him from trespass. Here's
+a fascinating essay on the deeper meanings of ha-ha:
+http://bsc.edu/~jtatter/borders.html
+
+Well, this week's words may give you an impression that I'm playing an
+April Fool's prank on you, but that's not true. All words featured this
+week, as in any week, are ""real"" dictionary words.              -Anu
+
+Today's AWAD is sponsored by NannyTax, Inc., offering on-line tax preparation
+and payroll tax compliance services to employers of domestic help. Please
+visit http://www.nannytax.com
+
+............................................................................
+Solitude, though it may be silent as light, is like light, the mightiest of
+agencies; for solitude is essential to man. All men come into this world
+alone; all leave it alone. -Thomas De Quincey, writer (1785-1859)
+
+Send your comments to anu@wordsmith.org. To subscribe or unsubscribe, send
+a message to wsmith@wordsmith.org with ""Subject:"" line as ""subscribe <Name>""
+or ""unsubscribe"". Archives, FAQ, gift subscription form, bulletin board,
+and more at http://wordsmith.org/awad/
+
+Pronunciation:
+http://wordsmith.org/words/ha-ha.wav
+http://wordsmith.org/words/ha-ha.ram",scott,inbox,1,0.003835916042293386,0
+92,374.txt,<18144311.1075861133699.JavaMail.evans@thyme>,"Wed, 20 Feb 2002 05:30:20 -0800 (PST)",susan_m_scott@hotmail.com,m..scott@enron.com,Fwd: Job description,"_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com
+
+ - Energy Risk Management Analyst fundamental analysis.doc",scott,inbox,1,0.008984920429747745,4
+93,412.txt,<866125.1075861134741.JavaMail.evans@thyme>,"Wed, 13 Mar 2002 22:21:48 -0800 (PST)",lisag@kis.ernet.in,"cathy.stevens@exult.net, rufburt@aol.com, mgille@coair.com,",Pretty cool...,"The following is a web address of a magazine based in Whistler,
+Canada. A woman that I work closely with, Janet Love Morrison, is
+a huge human rights activist and during December's semester
+break she traveled to Burma.  Her article is the 1st in a series of 4
+and is the feature article, titled ""Following the Path of Aung San
+Suu Kye.""
+
+i thought it was rather impressive and so is she; I truly admire her
+courage.
+
+www.piquenewsmagazine.com
+
+Take a look as soon as possible... its the feature of the week and
+may not be up much longer. I will let you know when her next is
+published and posted.",scott,inbox,1,0.004444979366349411,0
+100,228.txt,<6746452.1075858935761.JavaMail.evans@thyme>,"Wed, 17 Oct 2001 21:02:08 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--purple passage,"purple passage (PUR-puhl PAS-ij) noun, also purple patch, purple prose
+
+   1. A brilliant passage in an otherwise dull and uninspiring work.
+
+   2. A piece of writing marked by ornate, florid style.
+
+[From Latin pannus purpureus (purple patch), a phrase used by poet Horace in
+his Ars Poetica (The Art of Poetry) to suggest a patch of royal fabric on an
+ordinary cloth.]
+
+   ""Page after page is filled with drunken quarrels with his wife; with lies,
+   infidelities, religious doubts, homosexual yearnings and, above all, with
+   his daily, desperate search for a bottle. Interspersed among these dreary
+   horrors are purple passages about his love for his children, his dog and
+   his fine house.""
+   A Gin at Mid-Morning -- John Cheever: The Journals by John Cheever,
+   The Economist (London), Jan 11, 1992.
+
+This week's theme: words with color as metaphors.
+
+............................................................................
+People who are willing to give up freedom for the sake of short term
+security, deserve neither freedom nor security. -Benjamin Franklin,
+statesman, author, and inventor (1706-1790)
+
+Subscribe:    http://wordsmith.org/awad/subscribe.html
+Unsubscribe:    http://wordsmith.org/awad/unsubscribe.html
+Change address:   http://wordsmith.org/awad/address-change.html
+Gift subscription:  http://wordsmith.org/awad/gift.html
+
+Pronunciation:
+http://wordsmith.org/words/purple_passage.wav
+http://wordsmith.org/words/purple_passage.ram",scott,inbox,1,0.0026025278627079818,1
+104,202.txt,<20294453.1075858934897.JavaMail.evans@thyme>,"Tue, 16 Oct 2001 07:03:00 -0700 (PDT)",airtran_airways_net_escapes.um.a.35.35@post.intellimedia.com,airtran_airways_net_escapes@post.intellimedia.com,=??Q?Grade=20=93A=94=20Sale=20Fares=20and=20A-Plus=20Rewards=20Promotion?=,"AirTran Airways is doing its part to get America flying again.  We've
+made the fastest free ticket on earth twice as fast. Now through the
+end of the year, when you fly three roundtrips, we'll give you a free
+roundtrip coach ticket to anywhere we fly.
+
+We just wanted to remind you that our Grade ""A"" sale fares require a
+7-day advance purchase and are good for travel through February 13,
+2002. But, you must buy your tickets by this Wednesday night, October
+17, 2001.
+
+Book your tickets online at http://www.airtran.com , where our
+Grade ""A"" sale fares are discounted an extra 5%!
+
+Here are just a few examples of our sale fares:
+
+Travel may originate in either city. All fares are one-way and don't
+require roundtrip purchase.
+
+$78     Atlanta - Boston
+$63     Atlanta - Dayton
+$63     Atlanta - Orlando
+$49     Atlanta - Pensacola
+$39     Atlanta - Savannah/Hilton Head
+$49     Atlanta - Tallahassee
+$89     Bloomington/Normal - Fort Lauderdale
+$88     Boston - Tampa
+$84     Buffalo/Niagara - Miami
+$79     Canton/Akron - New Orleans
+$39     Chicago (Midway) - Pittsburgh
+$79     Dayton - Greensboro/High Point/Winston/Salem
+$103    Dallas/Fort Worth - Newark
+$79     Flint - Orlando
+$79     Gulfport/Biloxi - Philadelphia
+$103    Houston (Hobby) - Pittsburgh
+$84     Memphis - New York (LaGuardia)
+$33     Miami - Tampa
+$89     Moline/Quad Cities - Orlando
+$79     Minneapolis/St. Paul - Atlanta
+$73     Newark - Raleigh/Durham
+$65     Newport News/Williamsburg, VA - Tampa
+$103    New York (LaGuardia) - Houston (Hobby)
+$66     Philadelphia - Fort Lauderdale
+$66     Philadelphia - Tampa
+$63     Pittsburgh - Atlanta
+$34     Pittsburgh - Philadelphia
+$79     Toledo - Jacksonville
+$79     Washington (Dulles) - Fort Myers
+
+Remember - Book your sale fares online at http://www.airtran.com ,
+and receive a BONUS 5% discount!
+
+Rules and restrictions: All fares are one-way. All fares are
+non-refundable and a $50 fee per person applies to any change made
+after purchase plus any applicable increase in airfare. Seven-day
+advance purchase required. Tickets must be purchased by October 17,
+2001. Travel must be completed by February 13, 2002. Seats are
+limited, subject to availability and may not be available on all
+flights. Blackout dates are as follows: November 20, 21, 25, 26, 27
+and December 21, 22, 23, 28, 29, 30, 2001 and January 2, 3, 6, 2002.
+Travel to/from Pensacola begins on November 6, 2001. Travel to/from
+Tallahassee begins on November 15, 2001. Travel between Miami and
+Tampa begins on November 15, 2001. Fares, routes, and schedules are
+subject to change without notice. Fares do not include per-segment tax
+of up to $3.00. A segment is defined as one takeoff and one landing.
+Airport Passenger Facility Charges of up to $18 are not included.
+Fares to/from Grand Bahama Island do not include U.S. and Bahamian
+taxes of up to $33.80.
+
+Fly 3, Get 1 Free Promotion: Subject to terms and conditions as
+outlined on http://www.airtran.com . Fly 3, Get 1 Free
+promotion-earning period begins October 2, 2001 through
+December 31, 2001. Blackout dates and capacity controls apply.
+Visit http://www.airtran.com for more details. cAirTran Airways 2001
+
+**********************************************************************
+As a subscriber to AirTran Airways' Net Escapes, we send you regular
+updates on our Internet specials.  If you need to contact us for any
+other reason, please call us at 1-800-AIR-TRAN, or in Atlanta call
+770-994-8258. Please note that any reference to Net Escapes fares,
+Feature City fares, or bonus discounts for booking online may ONLY be
+purchased on our web site, http://www.airtran.com.
+
+Please click: http://post.intellimedia.com:80/UM/U.asp?B35.86.35.529319
+and you will be removed immediately!
+
+Or
+
+To unsubscribe, mailto:U-B35.86.35.529319@post.intellimedia.com
+or if the emailaddress is not clickable, simply copy the text
+to the right of the 'mailto:' command and paste it into your
+email application and hit send.  You will be taken off the list
+immediately. Thank you!",scott,inbox,1,0.006981336390101067,2
+109,174.txt,<20811834.1075858934005.JavaMail.evans@thyme>,"Tue, 9 Oct 2001 21:02:03 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--chichi,"chichi (SHEE-shee) adjective
+
+   Affectedly elegant.
+
+noun
+
+   1. Showy stylishness
+
+   2. A person with such quality.
+
+[From French.]
+
+   ""If all that sounds too chichi, get back to basics with the traditional
+   present - socks ...""
+   Bazaar, The Independent (London), Nov 2, 1996.
+
+This week's theme: unusual words.
+
+............................................................................
+No man but feels more of a man in the world if he have a bit of ground that
+he can call his own. However small it is on the surface, it is four
+thousand miles deep; and that is a very handsome property. -Charles Dudley
+Warner, editor, and publisher (1829-1900)
+
+Q: Tomorrow is my friend's birthday and I forgot to send her a gift. Help!
+A: Give the gift of words. Send a gift subscription of A.Word.A.Day at
+   http://wordsmith.org/awad/gift.html . It is the gift that keeps on
+   giving the whole year long, and beyond.
+
+Pronunciation:
+http://wordsmith.org/words/chichi.wav
+http://wordsmith.org/words/chichi.ram",scott,inbox,1,0.0022832075651053607,1
+112,362.txt,<20107932.1075861133416.JavaMail.evans@thyme>,"Mon, 11 Feb 2002 11:06:06 -0800 (PST)",mjmiller23@hotmail.com,,Re: wow,"wow.  
+
+MSN Photos is the easiest way to share and print your photos: Click Here",scott,inbox,1,0.005213876236981885,3
+137,165.txt,<25967869.1075858933697.JavaMail.evans@thyme>,"Thu, 4 Oct 2001 17:05:28 -0700 (PDT)",klbwebb@aol.com,sscott5@enron.com,Kelly Webb invites you to see photos online!,"These are some pictures from Susan and Eric's Wedding.  Excuse the pictures of me and the new car, and of Duke.  It was an all or nothing deal.  I think you can order pics??? I am not too sure!  Hope all is well with everyone---dinner after Christmas?
+
+Kelly :)
+
+Kelly Webb has invited you to see photos at the Walmart.com Photo Center.
+
+Click on the link below to see Kelly's photos. (If clicking on the link doesn't work, try copying and pasting it into your Web browser.)
+
+http://www.walmart.com/agt/bounce.gsp?ID=0528ohtdpzu2eaj3tcq8
+
+We hope you enjoy your visit to the Photo Center, where it's easy to do more with your photos. Create photo gifts such as mugs and mousepads, order high-quality prints and enlargements at our Every Day Low Prices or create your own online albums to save and share your favorite photos.
+
+Best wishes,
+Walmart.com
+http://www.walmart.com
+
+Do you use AOL?
+If you're having trouble getting to the Photo Center, try <a href=""http://www.walmart.com/agt/bounce.gsp?ID=0528ohtdpzu2eaj3tcq8"">clicking here</a>.",scott,inbox,1,0.01249799690336062,1
+152,164.txt,<31934854.1075858933674.JavaMail.evans@thyme>,"Thu, 4 Oct 2001 08:43:41 -0700 (PDT)",jacqueline.coleman@enron.com,jacqueline.coleman@enron.com,Volunteer Opportunity Meeting,"Volunteer Opportunity to become involved in the community and meet professionals throughout Houston 
+
+Become involved in the community and see how you can help change the face of Houston at a meeting hosting the Quality of Life Coalition.  The Quality of Life Coalition is a part of the Gulf Coast Institute, a prominent non-for-profit entity that is engaged in making Houston a better place to live by developing and promoting recreational and environmental amenities (such as running and biking trails like the greenbelt for you Austinites!) that appeal to all parts of the community.  The group is a mixture of local citizens from the civic improvement, business, and environmental communities who would like to improve the fundamental health and economics of the city to be more competitive with other cities.  At the meeting, the president will more specifically discuss the plan for Houston as well as volunteer opportunities for interested and experienced professionals.  
+
+The meeting is:
+Tuesday, October 16th
+11:30 in 27c2
+
+Please RSVP and direct any questions to:
+Catherine Rentz Pernot
+X57654",scott,inbox,1,0.0028816064144253084,1
+159,238.txt,<19034236.1075858936014.JavaMail.evans@thyme>,"Fri, 19 Oct 2001 06:56:09 -0700 (PDT)",kenyanway@prodigy.net,kenyanway@prodigy.net,Fw: 20K Race Predictors,"Hi Kenyan runners,  here is some useful information  concerning the 20k this week end and what pace you should run.
+You should run the first 10K at that  pace then pick up, if possible, the second 10K.
+
+Marine Corps, New York, or San  Antonio should use the faster sheet 
+All other runners use the slower  sheet.  
+Thanks
+
+Jon/Sean/Jerry
+ - 20K predictor.doc",scott,inbox,1,0.0010895599826994395,2
+179,99.txt,<7383756.1075858931920.JavaMail.evans@thyme>,"Wed, 5 Sep 2001 10:23:26 -0700 (PDT)",c..bland@enron.com,,Building Business Acumen,"Want to develop your professional skills & knowledge?
+Want to enhance your ability to add value to Enron?
+Want to be among the first 100 people to move Enron towards Digital Learning?
+Want a chance to win two roundtrip airline tickets?
+
+We are piloting Building Business Acumen (BBA), eLearning performance simulations.  You will experience case analysis, ever changing scenarios, and problem solving with personalized feedback, based on your choices and actions.  The BBA will provide you with learning material in:
+Creating Competitive Advantage
+Evaluating Market Opportunities
+Maximizing Operational Performance
+(to read more, open attached file)
+
+Modules
+Modules are designed to help managers and other decision-makers to build essential business skills and  enhance the strategic perspective of any member of the enterprise. Learners are challenged to achieve specific real-world business objectives and master the fundamentals of general business skills. 
+
+Business Leaders
+Professors from Babson College, a leader in Executive Development & Entrepreneurship, provided materials and content for the courses.  Babson College is ranked #1 in entrepreneurship by Business Week, Financial Times, Success magazine and U.S. News & World Report.  
+
+Course Delivery
+You can take the course in segments of time that are conducive to your daily schedule - if you want to work on it for 5 minutes or 5 hours, it will bookmark the place when you last left.  Each module is approximately 8 hours in length and can be accessed from any computer with Internet access.  
+
+Your Involvement
+If you chose to participate in this pilot, you are agreeing to complete one of the aforementioned modules and provide feedback based on your experience.  The pilot will begin in mid-September and will conclude in mid-October.  
+
+How do I WIN?
+In order to be qualified for the Airplane tickets, you must complete one module and provide feedback.  The completed evaluation will enter you in the drawing.  If you complete more than one module you will be entered multiple times.  You'll have a great chance to win the tickets because less than 100 people will participate in this pilot.
+
+Sign me up!
+If you would like to participate in this pilot, click on hyperlink to email Melissa Prihoda. 
+mailto:melissa.prihoda@enron.com 
+in the message indicate:
+the module you are interested in piloting, 
+if you're an Associate or Analyst, 
+the Business Unit you currently support (EWS, EES, EBS), 
+number of years out of school
+and your phone number.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Open file to read more about the modules",scott,inbox,1,0.0011525136737090547,2
+180,167.txt,<6257770.1075858933756.JavaMail.evans@thyme>,"Sun, 7 Oct 2001 21:03:07 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--cecity,"cecity (SEE-si-tee) noun
+
+   Blindness.
+
+[From Latin caecitas, from caecus (blind).]
+
+   ""I mean that my love for you, which cries out for a physical expression
+   you tolerate brutishly, induces a cecity to your inefficiency and your
+   bad behavior.""
+   Earthly Powers, Anthony Burgess, 1980.
+
+It's that time of the year again, the time when we feature odds-and-ends.
+One-of-a-kind words. Words that are unusual, picturesque, whimsical,
+esoteric, or intriguing. And like all the creatures in this world, these
+words serve a purpose (as shown by the accompanying citations). They make
+our verbal universe richer and more diverse. So here they are. We've coaxed
+them out of the dictionary -- it's not often that one finds them in the
+open -- and we hope you'll welcome them in your diction.           -Anu
+
+............................................................................
+If you wish to make an apple pie truly from scratch, you must first invent
+the universe. -Carl Sagan, astronomer and writer (1934-1996)
+
+Send your comments about words to anu@wordsmith.org. To subscribe or
+unsubscribe A.Word.A.Day, send a message to wsmith@wordsmith.org with
+""Subject:"" line as ""subscribe <Your Name>"" or ""unsubscribe"". Archives,
+FAQ, gift subscription form, and more at: http://wordsmith.org/awad/
+
+Pronunciation:
+http://wordsmith.org/words/cecity.wav
+http://wordsmith.org/words/cecity.ram",scott,inbox,1,0.008536826861674507,0
+197,156.txt,<32259946.1075858933329.JavaMail.evans@thyme>,"Mon, 1 Oct 2001 01:33:52 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--zugzwang,"zugzwang (TSOOK-tsvahng) noun
+
+   A position where one is forced to make an undesirable move.
+
+[From German Zugzwang, Zug (move) + Zwang (compulsion, obligation).]
+
+   ""Now the government finds itself in zugzwang, where every move it makes
+   worsens its position against an invisible opponent ....""
+   Pusch Commey, Is the Rand Racially Prejudiced?, African Business (London),
+   Mar 2001.
+
+In his classic story ""Shatranj Ke Khiladi"" (""Chess Players,"" later made into
+a movie directed by Satyajit Ray), Hindi writer Munshi Premchand (1880-1936)
+narrates the saga of a kingdom engrossed in playing chess, unmindful of the
+advancing enemy forces. Such is the charm of this ancient Indian game.
+
+An Italian proberb goes, ""After the game, the king and pawn go into the same
+box."" A world in itself, chess mimics life in more ways than one. While quite
+simple on the surface, its complexity is mind-boggling. There are more than
+10120 possible moves (that's number 10 followed by 120 zeros). That is a?fairly large number once we realize that there are only about 1075 atoms
+in this universe.
+
+It attests to the popularity of the game that many of the chess words have
+entered our mainstream vocabulary. This week we explore five of them. -Anu
+
+............................................................................
+In the presence of eternity, the mountains are as transient as the clouds.
+-Robert Green Ingersoll, lawyer and orator (1833-1899)
+
+Send your comments about words to anu@wordsmith.org. To subscribe or
+unsubscribe A.Word.A.Day, send a message to wsmith@wordsmith.org with
+""Subject:"" line as ""subscribe <Your Name>"" or ""unsubscribe"". Archives,
+FAQ, gift subscription form, and more at: http://wordsmith.org/awad/
+
+Pronunciation:
+http://wordsmith.org/words/zugzwang.wav
+http://wordsmith.org/words/zugzwang.ram",scott,inbox,1,0.007837127524326915,0
+198,142.txt,<24380243.1075858932994.JavaMail.evans@thyme>,"Mon, 24 Sep 2001 21:02:04 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--commiserate,"commiserate (kuh-MIZ-uh-rayt) verb tr.
+
+   To feel or express sympathy or compassion for.
+
+verb intr.
+
+   To sympathize with.
+
+[From Latin commiseratus, past participle of commiserari, from com- +
+miserari (to pity), from miser (pitiable, wretched).]
+
+   ""Even on his death bed, he had reached out to his extended family
+   of friends by phone to joke and commiserate with them about their
+   various problems, as if death weren't looking over his shoulder the
+   whole time.""
+   Friendships Make the End of Life Bearable, The Pittsburgh Post-Gazette,
+   Aug 21, 2001.
+
+This week's theme: verbs.
+
+............................................................................
+When love and skill work together, expect a masterpiece. -John Ruskin,
+author, art critic, and social reformer (1819-1900)
+
+Q: What other services are available at Wordsmith.Org?
+A: Have you tried ""I, Rearrangement Servant"" also known as ""Internet Anagram
+   Server""? You can anagrammatize your name, your friends' names, and even
+   your pet's name. Find it at: http://wordsmith.org/anagram/index.html
+
+Pronunciation:
+http://wordsmith.org/words/commiserate.wav
+http://wordsmith.org/words/commiserate.ram",scott,inbox,1,0.0017061312052122912,1
+204,432.txt,<5955838.1075861135331.JavaMail.evans@thyme>,"Wed, 20 Mar 2002 11:20:30 -0800 (PST)",sarahberry819@yahoo.com,sscott5@enron.com,Last Minute,"[IMAGE] 	
+
+ You're invited to:  Last Minute   Hosted by:  Sarah Berry   To view the full invitation, click here!    [IMAGE]     	
+
+This Evite invitation is covered by Evite's privacy policy, updated 01/09/01.  
+      	 HAVING TROUBLE?   If the ""To view the full invitation, click here!"" link above didn't take you to your Invite, try double-clicking the link below (or copy and paste it into your web browser's location bar and hit 'Enter'): http://www.evite.com/r?iid=SKWJGNVLTYGASVZAMJHZ  To remove yourself from this guest list please click on the link above. 	      	
+
+[IMAGE]",scott,inbox,1,0.006532090880403185,4
+231,68.txt,<5427506.1075858931037.JavaMail.evans@thyme>,"Sat, 4 Aug 2001 03:28:56 -0700 (PDT)",ehillegeist@hotmail.com,sscott5@enron.com,"one of those ""patriotic"" things.","_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp",scott,inbox,1,0.0049223178603012285,3
+240,380.txt,<28243535.1075861133840.JavaMail.evans@thyme>,"Sun, 24 Feb 2002 18:05:45 -0800 (PST)",susan_m_scott@hotmail.com,susan_m_scott@enron.com,Fwd: Scheduling Cinergy Interview,"_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos:
+http://photos.msn.com/support/worldwide.aspx",scott,inbox,1,0.00486053869815678,3
+251,381.txt,<28099732.1075861133862.JavaMail.evans@thyme>,"Mon, 25 Feb 2002 09:05:58 -0800 (PST)",apurvis@mfah.org,apurvis@mfah.org,"MFAH Fine Arts Friday!  March 1, 2002","What do Martinis, Jazz, and
+George Washington have in common?
+
+Fine Arts Friday
+A Happy Hour for Professionals
+
+Presented by
+The Museum of Fine Arts, Houston
+Conoco & KRTS 92.1
+
+FRIDAY, March 1, 2002
+In the Cafe Express of the museum's Audrey Jones Beck Building (5601 Main
+Street)
+Free admission
+6:00 - 8:30 p.m.
+$5 martini specials!
+Complimentary hors d'oeuvres
+Cash bar
+Come as you are
+
+				Mix and mingle with other professionals, and
+see the monumental ""Lansdowne"" portrait of George Washington by American
+painter Gilbert Stuart.
+
+				Now on view at the MFAH, the portrait made
+news in 2001 when the owner, who had lent the painting to the National
+Portrait Gallery at the Smithsonian Institution since 1968, decided to sell
+it.  The Donald W. Reynolds Foundation of Las Vegas donated $30 million to
+allow the National Portrait Gallery to purchase the painting.
+
+				The MFAH is the first stop on the national
+tour  George Washington: A National Treasure.
+
+				Special mini-tours of the Lansdowne portrait
+of George Washington will be available at 7:00, 7:30, & 8:00.
+		As always, receive discounted memberships and 15% off at the
+gift shop during Fine Arts Friday.
+
+For more information, call Amy Purvis at (713) 639-7570.",scott,inbox,1,0.010792687474691143,1
+266,226.txt,<7120857.1075858935648.JavaMail.evans@thyme>,"Wed, 17 Oct 2001 18:34:51 -0700 (PDT)",online1@wellsfargo.m0.net,sscott5@enron.com,Your October WellsWire,"In This Edition
+Banking Essentials
+Investment Accounts
+Managing Your Financial Accounts
+Managing Your Money
+Back to Basics
+Taking the first steps toward financial freedom starts with the 
+basics. Whether you bank online, via ATM, phone, in person, or any 
+combination of these, becoming familiar with the accounts and 
+services your bank offers will make it easier to find the loans, 
+credit cards and even home mortgages that are right for you. By 
+learning what your bank has to offer, you can take advantage 
+of the financial products and services that best fit your 
+financial needs.
+Banking Essentials
+It's important to learn the features of even the most basic 
+banking products. Finding the right account is easy when you've 
+done the research. 
+Checking and Savings Accounts
+Most people have checking and savings accounts, but may not know 
+that the types of accounts available vary widely. Everybody's 
+financial needs are different, and that's why it's important to 
+choose the account that fits the way you want to bank and enhances 
+your lifestyle. 
+? Checking Accounts. Do you keep a steady amount of money in your 
+checking account? Is your checking account your main financial 
+services account? The right checking account has it all - 
+convenience, flexibility and fast, easy access to your money. 
+Checking accounts give you the freedom to write checks against 
+your account balance and to have access to your money through an 
+ATM or online banking. And since everyone's financial needs are 
+different, there are a wide variety of checking accounts available, 
+including interest bearing or non-interest bearing, all of which 
+are FDIC insured. From accounts that offer you free checking with 
+direct deposit to low-fee student accounts to top-of-the-line 
+financial relationship accounts, there's a checking account 
+that fits your lifestyle. 
+? Savings Accounts. Whether you're saving for a new house or a 
+child's college education, the best way to achieve your financial 
+goals is to put money away each month. An Automatic Savings Plan 
+makes saving even easier by automatically moving a pre-determined 
+amount of money between your accounts. Savings accounts are interest- 
+bearing accounts with low minimum balance requirements. They are 
+a convenient way to save for the future and most savings accounts 
+can be used as overdraft protection for your checking account. Find 
+out more about the variety of savings accounts  available to you. 
+? Time Accounts (CDs)
+If you're planning for a vacation or saving for the future, time 
+accounts , also known as certificates of deposit, are a solid choice for your 
+savings needs. Time accounts offer guaranteed rates of return for a fixed term, 
+flexibility in length of investment term and are eligible for FDIC insurance. 
+ATM, Check, and Credit Cards
+Both ATM cards and check cards provide convenient access to your 
+accounts, allowing you to withdraw cash, make deposits and transfer 
+funds through an ATM. An ATM card  also offers you the ability to make 
+purchases using your Secret Code or Personal Identification Number 
+(PIN) at participating merchants. With a check card , you have 
+expanded purchasing power at merchants worldwide that accept either 
+Visa
+ (or MasterCard
+), depending on which logo is displayed on your 
+card. Whenever you use a check card or ATM card to make a purchase, 
+the purchase amount is always deducted from your checking account 
+and detailed on your monthly statement for easy record keeping. 
+Additionally, there are several types of credit cards , which give 
+you the convenience and financial flexibility of paying for your 
+purchases over time, depending on your credit limit. With all of 
+these choices, there is definitely a card (or cards) that is right 
+for you. 
+Investment Accounts
+These days, most people have some sort of an investment account. 
+However, the type of investment account people choose depends on 
+their comfort level and goals. Whether you're new to investing, 
+experienced at managing your own investments, or simply want to work 
+with a financial consultant, there are options for you. 
+? Full-service brokerage. New to investing? Prefer talking to 
+somebody in person? An experienced financial consultant can help. 
+It's not always easy making investment choices on your own. Working 
+with a financial consultant , you get the tailored advice you need to 
+make informed investment decisions. 
+? Online brokerage. If you prefer to manage your investments on 
+your own, online brokerage  gives you the dynamic tools to manage your 
+portfolio, research the marketplace, assess your opportunities and 
+make the right decisions. 
+? Wells ShareBuilder. With Wells ShareBuilder  you can invest in 
+stocks and index shares in regular intervals, weekly or monthly. Over 
+time, you will automatically build your portfolio share by share. 
+With no investment minimums and low transaction fees, this 
+affordable technique uses dollar-cost averaging to help you 
+reach your long-term goals. 
+Managing Your Financial Accounts
+? Online Banking Basics
+How do you access your accounts? In a branch, at an ATM, over the 
+phone, or online? As many people have discovered, banking online is 
+the fastest, most convenient way to access all their accounts, manage 
+investments, transfer funds and pay bills - all with just the click 
+of a mouse. 
+? Online account access. Need to check your balance from work? Want 
+to make a quick transfer between accounts but don't have time to stop 
+at the bank or ATM? Online account access  lets you view your account 
+balances and transactions, transfer funds, pay bills online, and 
+contact customer service. It's an easy and convenient way to manage 
+your accounts from your computer. 
+? Online bill pay. With online bill pay, you can pay any individual 
+or company in the U.S. from the comfort of your home computer, the 
+office, or anywhere you have Internet access. And the money you will 
+save on postage can really add up. Try this demo  to see how easy 
+it is. 
+Managing Your Money
+If you're like most people, you work hard and strive to achieve your 
+dreams. It's important to build a financial foundation to ensure you 
+arrive where you want to be. Here are a few tips on how you can make 
+smart decisions about your financial future. 
+Taking Control of Your Finances
+It's not how much you make, but what you do with your money that 
+matters. Cutting out a few minor expenses can make a big difference 
+in your savings. There's no better way to stay out of debt than by 
+tracking your spending and sticking to a budget. A budget can help 
+you control your finances, decrease your debt, and build a strong 
+credit history. Where do you spend your money? Determining your cash 
+flow is the first step in creating a successful budget. 
+Building Your Credit and Controlling Debt
+Managing credit can be a challenge. But a good credit rating is key 
+to many financial decisions. Learning how to establish and maintain 
+good credit  can make a big difference in your savings. Understanding 
+how to manage your debt can empower you to take charge of your 
+financial future. The quality of your life is directly linked to how 
+well you manage your credit and debt. 
+Personalize Your Communications from Wells Fargo Online
+
+We can tailor the content of our email communications to match your 
+interests with information on products and services you want to know 
+about. Just let us know  what you're interested in and we'll send you 
+relevant messages that help you achieve your financial goals. 
+One Last Thought
+Managing your money means making major financial decisions. In 
+addition to the tips provided in this newsletter, a wealth of 
+information can be found at http://www.wellsfargo.com . We'll see 
+you next month with more practical information for managing your 
+financial life. 
+?2001 Wells Fargo Banks. All rights reserved. Members FDIC. 
+Investment products offered through Wells Fargo Investments 
+- Not FDIC Insured - No Bank Guarantee - May Lose Value
+Full-service and online brokerage accounts are available through 
+Wells Fargo Investments, LLC (member NYSE/SIPC), a non-bank affiliate 
+of Wells Fargo & Company. 
+Financial consultants are registered representatives of Wells 
+Fargo Investments. 
+Wells ShareBuilder is offered through ShareBuilder Securities 
+Corporation, member NASD/SIPC, a subsidiary of Netstock Corporation. 
+ShareBuilder Securities Corporation is a separate broker/dealer that 
+is not affiliated with Wells Fargo. Wells Fargo owns a minority 
+interest in Netstock Corporation, parent of ShareBuilder Securities 
+Corporation. Questions about and access to Wells ShareBuilder must 
+be directed to ShareBuilder Securities at 1-877-595-0208 between 5am 
+and 6pm Pacific Time, Monday through Friday. 
+Attention: Wells Fargo is committed to maintaining your privacy 
+and will not share any information provided above with 
+another company. 
+Please do not respond to this message using the ""reply"" button. 
+If you have questions about Online Banking or your own accounts 
+please sign on to a secure banking session at https://banking.wellsfargo.com , select the Contact Us button, and 
+send your message. This way we can verify that you are the owner of 
+the account and can process your request. 
+If you would like to unsubscribe from future Wells Fargo 
+announcements, please click on the following link: http://wellsfargo1.m0.net/m/u/wlls/tmp/w.asp?e=sscott5%40enron.com",scott,inbox,1,0.010977192474878883,2
+282,346.txt,<30940404.1075861133051.JavaMail.evans@thyme>,"Thu, 31 Jan 2002 04:10:41 -0800 (PST)",susan_m_scott@hotmail.com,sscott5@enron.com,Fwd: Re: Hey Buddy!!!,"_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp.",scott,inbox,1,0.004614663600570723,3
+289,409.txt,<6867895.1075861134671.JavaMail.evans@thyme>,"Mon, 11 Mar 2002 18:06:35 -0800 (PST)",susan_m_scott@hotmail.com,sscott5@enron.com,Fwd: RE: Name correction,"_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp.",scott,inbox,1,0.004614663600570723,3
+291,384.txt,<21795703.1075861133932.JavaMail.evans@thyme>,"Tue, 26 Feb 2002 14:34:32 -0800 (PST)",moshuffle@hotmail.com,m..scott@enron.com,Fwd: RE: you there??,"_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos:
+http://photos.msn.com/support/worldwide.aspx",scott,inbox,1,0.00486053869815678,3
+294,179.txt,<31491032.1075858934133.JavaMail.evans@thyme>,"Wed, 10 Oct 2001 21:03:51 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--tantivy,"tantivy (tan-TIV-ee) adverb
+
+   At full gallop; at full speed.
+
+noun
+
+   A fast gallop; rush.
+
+adjective
+
+   Swift.
+
+interjection
+
+   A hunting cry by a hunter riding a horse at full speed.
+
+[Of obscure origin, perhaps from the sound of a galloping horse's feet.]
+
+   ""But both the book and the exhibit show clearly that along with these
+   changes in diet, sport and exercise had an early start and a long run
+   among the tangled tantivy of 19th-century cures, cons, leeches, preachers,
+   drugs, zaps, baths, diets, teetotaling, indoor plumbing, ventilation, and
+   `Spanish Nerve Grains' that stampeded Americans into our current obsession
+   with fitness.""
+   Christina Robb, Exercists America's Longtime Pursuit of Fitness,
+   The Boston Globe, Mar 13, 1988.
+
+This week's theme: unusual words.
+
+............................................................................
+Man's life does not commence in the womb and never ends in the grave.
+-Charan Singh, mystic (1916-1990)
+
+Subscribe:    http://wordsmith.org/awad/subscribe.html
+Unsubscribe:    http://wordsmith.org/awad/unsubscribe.html
+Change address:   http://wordsmith.org/awad/address-change.html
+Gift subscription:  http://wordsmith.org/awad/gift.html
+
+Pronunciation:
+http://wordsmith.org/words/tantivy.wav
+http://wordsmith.org/words/tantivy.ram",scott,inbox,1,0.0010643757966867229,0
+310,184.txt,<10075974.1075858934254.JavaMail.evans@thyme>,"Mon, 15 Oct 2001 00:02:27 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--blue rinse,"blue rinse (BLOO rins) adjective
+
+   Related to elderly women.
+
+[From the hair-dye used on grey hair that produces a blue shade.]
+
+   ""If the race comes down to a former officer married to an aristocrat and
+   blessed with four children - or a quiffed Spaniard with a gay past and a
+   soft line on drugs, who do you think the blue rinse brigade will choose?""
+   Jonathan Freedland, Still Lost in the Wilderness, The Guardian (London),
+   Jul 11, 2001.
+
+Ever wonder how our vocabulary is colored by many hues of a rainbow?
+Often we use colors as symbols for ideas, thoughts, and concepts but
+do it with little logic. Take the color blue, for example. A blue chip
+stock is good to hold in one's portfolio while we're chary of blue-sky
+stock. A blue collar worker is a manual laborer yet a bluestocking is one
+with intellectual inclinations. A bluenose is a prude but a blue blood is
+aristocratic. Even a computer would go crazy trying to make sense of this.
+No wonder we made artificial languages to program computers. In this week's
+AWAD we take a look at other words and phrases tinged with colors.    -Anu
+
+............................................................................
+Choose the life that is most useful, and habit will make it the most
+agreeable. -Francis Bacon, essayist, philosopher, and statesman (1561-1626)
+
+Send your comments about words to anu@wordsmith.org. To subscribe or
+unsubscribe A.Word.A.Day, send a message to wsmith@wordsmith.org with
+""Subject:"" line as ""subscribe <Your Name>"" or ""unsubscribe"". Archives,
+FAQ, gift subscription form, and more at: http://wordsmith.org/awad/
+
+Pronunciation:
+http://wordsmith.org/words/blue_rinse.wav
+http://wordsmith.org/words/blue_rinse.ram",scott,inbox,1,0.005665377192993093,0
+320,345.txt,<852331.1075861133026.JavaMail.evans@thyme>,"Thu, 31 Jan 2002 04:09:33 -0800 (PST)",susan_m_scott@hotmail.com,sscott5@enron.com,Fwd: RE: Whistler!!!,"_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com",scott,inbox,1,0.018608507321668355,4
+324,350.txt,<24380794.1075861133140.JavaMail.evans@thyme>,"Sun, 3 Feb 2002 20:33:55 -0800 (PST)",susan_m_scott@hotmail.com,sscott5@enron.com,Fwd: 2nd interview,"_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp.",scott,inbox,1,0.004614663600570723,3
+337,230.txt,<24958270.1075858935809.JavaMail.evans@thyme>,"Thu, 18 Oct 2001 07:09:52 -0700 (PDT)",deanrodgers@kaseco.com,m..scott@enron.com,"Technical Analysis Class, Early Bird 'Til 11/05","Learn Technical Analysis
+Two Full Days, December 4-5, 2001 
+Early Bird Discount Until October 31, 2001
+ [IMAGE]
+ Marriott West Loop, Houston, Texas 
+Energy Traders, Marketers and Buyers.   This two full day class serves as both an introduction to those new to technical analysis and a refresher for experienced traders. Technicals are taught in a logical, systematic manner oriented to equip both physical and paper traders to buy low, sell high and manage risk in the real world in a logical, methodical manner.  	
+
+ In this class you will:   Ascertain when and how to take profit and cut losses.  Find out how to set up a strategy by identifying probable market direction and turns as well as likely targets using chart patterns.  Learn to use both traditional indicators like moving averages and stochastics, as well the state-of-the-art methods which won Cynthia Kase the coveted Market Technicians Association's ""Best of the Best"" award.  	 Content   Charting Basics, Types of Charts, Support and Resistance  When to Buy or Sell (Entry Techniques)  When to Exit Based on Signals (Momentum and Divergence)  How to Exit Based on Stops (Managing Trade Risk)  Chart Patterns and Forecasting Basics (Candlesticks, Elliott  Wave, Flags, etc.)  Statistical Hedging  	
+
+ Early Bird Special $845.00 Two or More Early Bird $795.00 Regular: $995.00 Two or More: $895.00	 *** Register Now! ***      Click Here for More Information   About the Presenters   Who Should Attend  Detailed Agenda and Schedule  Other Classes Offered By Kase 	   [IMAGE] Kase and Company also offers In House Training Classes. For more information please email us at kase@kaseco.com  or call at (505) 237-1600",scott,inbox,1,0.0008961540533533596,2
+344,34.txt,<10255283.1075858930226.JavaMail.evans@thyme>,"Mon, 16 Jul 2001 19:58:58 -0700 (PDT)",moshuffle@hotmail.com,sscott5@enron.com,MORE HARASSMENT,"http://www.muppets.com/profiles/animal.htm
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com",scott,inbox,1,0.010401760960541573,3
+356,336.txt,<26134894.1075861132817.JavaMail.evans@thyme>,"Wed, 23 Jan 2002 16:19:51 -0800 (PST)",hollypaxman@cs.com,m..scott@enron.com,Re: Holiday Weekend,"Hey. 
+Very interesting weekend.  Whistler was amazing.  Danny and DJ were supposed to go home sunday morning, but they didn't leave.  They called sunday and we went out.  Tons of fun.  I was dancing with dj and I talked them into staying another day.  We skied all day monday and they left.  It is a bit weird, I still don't know if dj is really that interested.  I really thought so on sunday (dancing, etc), but hard to tell when we were skiing.  Maybe because danny was there that it was a bit weird.  I will see dj at a party sat. night so more story later. 
+I will get the name of the army guy.  It is Josh, but I always have a hard time remembering his last name... 
+Any news from Seattle co? 
+bye. 
+holly",scott,inbox,1,0.0013952904818652079,1
+361,35.txt,<24994465.1075858930248.JavaMail.evans@thyme>,"Mon, 16 Jul 2001 20:05:20 -0700 (PDT)",moshuffle@hotmail.com,sscott5@enron.com,i taunt you a second time,"http://www.whysanity.net/muppets/rainbow.html
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com",scott,inbox,1,0.010026906366946031,3
+366,297.txt,<24966239.1075858937787.JavaMail.evans@thyme>,"Fri, 26 Oct 2001 14:26:11 -0700 (PDT)",mike.grigsby@enron.com,"k..allen@enron.com, l..gay@enron.com, mog.heu@enron.com,",Var rate sheet,Temp file until the IT group completes the Internet version.,scott,inbox,1,0.007405276471607158,4
+375,320.txt,<26580660.1075861132353.JavaMail.evans@thyme>,"Thu, 3 Jan 2002 15:16:47 -0800 (PST)",continental@coair.com,sscott5@enron.com,eService Online Account Information,"Username: sscott5tx
+Password: temple
+
+------------------------------------------------------------
+
+If you have any questions you may e-mail us at eservice@coair.com or
+call toll-free at 1-800-300-1547.
+
+Please do not reply to this e-mail, as it cannot be answered from this
+address.
+
+Thank you for choosing continental.com for your travel needs.
+http://www.continental.com",scott,inbox,1,0.005809781305224304,4
+377,452.txt,<22045852.1075861135978.JavaMail.evans@thyme>,"Mon, 25 Mar 2002 09:01:43 -0800 (PST)",moshuffle@hotmail.com,m..scott@enron.com,Fwd: FW: Yahoo! Briefcase: tripas_94's file(s),"_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com",scott,inbox,1,0.018608507321668355,4
+387,22.txt,<29050514.1075858929698.JavaMail.evans@thyme>,"Fri, 6 Jul 2001 06:26:15 -0700 (PDT)",celeahy@hotmail.com,m..scott@enron.com,Re: Ever have the wind knocked out of you?,"He is a sad and confused person.  I don't think you should ever speak to him again.  
+I left you a message on your cell phone this morning.  I am going to death row today.
+-Corey
+
+Get your FREE download of MSN Explorer at http://explorer.msn.com",scott,inbox,1,0.015112307956294091,1
+388,269.txt,<4351235.1075858937061.JavaMail.evans@thyme>,"Wed, 24 Oct 2001 06:33:05 -0700 (PDT)",lisa.gillette@enron.com,"bryan.hull@enron.com, harry.bucalo@enron.com, matthew.lenhart@enron.com,",Thank You!,"Hi All,
+
+Just wanted to take a minute to thank each of you for celebrating my birthday with me. I was in a bit of a mood yesterday, but dinner with all of you last night really helped me to enjoy the day. 
+
+Thanks so much,
+Lisa",scott,inbox,1,0.0012684484361306092,1
+404,443.txt,<30768946.1075861135680.JavaMail.evans@thyme>,"Thu, 21 Mar 2002 21:02:46 -0800 (PST)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--mogul,"mogul (MO-guhl) noun, also moghul or mughal
+
+   A powerful or influential person; magnate.
+
+[After Mogul, one of the Mongol conquerors who ruled India from 1526 to 1857.]
+
+   ""By now, you may think you know everything there is to know about Santa
+   Claus. However, what you don't know could fill his bottomless bag of
+   toys. Hardly any of the popular tales about Jolly Old St. Nick have been
+   updated since the 1940's. The world has changed considerably since then,
+   and so has Santa. Thanks largely to some disenchanted elves whose
+   contractual nondisclosure agreements recently expired, we now have
+   firsthand accounts of what it is like to work for the world's most
+   reclusive toy mogul.""
+   Kevin Doughten, What Your Parents Never Told You, The New York Times,
+   Dec 24, 2001.
+
+This week's theme: eponyms.
+
+Read Of Nerds and Words at SF Gate, the Web site of the San Francisco Chronicle:
+http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2002/03/21/nerdword
+s.DTL
+
+Today's AWAD is sponsored by NannyTax, Inc., offering on-line tax preparation
+and payroll tax compliance services to employers of domestic help. Please
+visit http://www.nannytax.com
+
+AND
+Clean Air Gardening. Environmentally friendly lawn and garden supplies. Free
+US shipping! $5 off with online coupon: AWAD. http://www.cleanairgardening.com
+
+............................................................................
+Let proportion be found not only in numbers and measures, but also in
+sounds, weights, times, and positions, and what ever force there is.
+-Leonardo Da Vinci, painter, engineer, musician, and scientist (1452-1519)
+
+Send your comments to anu@wordsmith.org. To subscribe or unsubscribe, send
+a message to wsmith@wordsmith.org with ""Subject:"" line as ""subscribe <Name>""
+or ""unsubscribe"". Archives, FAQ, gift subscription form, bulletin board,
+and more at http://wordsmith.org/awad/
+
+Pronunciation:
+http://wordsmith.org/words/mogul.wav
+http://wordsmith.org/words/mogul.ram",scott,inbox,1,0.00786691859760702,0
+405,331.txt,<26485446.1075861132605.JavaMail.evans@thyme>,"Fri, 18 Jan 2002 11:23:36 -0800 (PST)",sarahreneehughes@hotmail.com,,You HAVE to check this out - Scary,"This is so freaky and a little scary but check it out.
+
+Click on the website below and
+Stare at the door in this picture for at least 2 minutes.
+
+http://web.qx.net/cm1994/weird.gif
+
+_________________________________________________________________
+Chat with friends online, try MSN Messenger: http://messenger.msn.com",scott,inbox,1,0.0035911757179935555,4
+412,27.txt,<14667232.1075858930069.JavaMail.evans@thyme>,"Mon, 9 Jul 2001 16:24:35 -0700 (PDT)",przybyla1@go.com,"sonderfan@hotmail.com, mjmiller23@hotmail.com, ehillegeist@hotmail.com,",Re: (no subject),"my turn-  and i think jenn and matt will win since jon's email address was written wrong.  it's jontopolski@msn.com  so shape up and change it (for those of you who care- but the rest of you should as one day he may make a lot of money so you'll want to be in his will- as a precautionary measure- i'm banking on it- em, jenn, i think it's something to look into.)
+
+1. What time is it?
+    inconsequential- it's summer, it always feels like 2:15. (it's 6:20 CST)
+
+2. Name as it appears on your birth certificate:
+   Jeffrey Alan Przybyla
+
+3. Nickname:
+   any derogatory term for the Polish, frizz (courtesy harold pollard), Eck (with extreme hair growth), Jesus (same conditions), priz, and, perhaps my favorite jizzybyla (pronounced jizz-a-bella, thanks matt), sleepy, and perhaps 3000 others given to me by sarah; Are poo and ass taken?
+
+4. Parent's names:
+    Jeff and Sandy
+
+5. Number of candles that appeared on your last birthday cake:
+   24
+
+6. Date that you regularly blow them out:
+     Oct. 7 (i'll expect a call)
+
+7. Height:
+    6'0""-6'1""
+
+8. Eye color:
+    dark brown i guess
+
+9. Hair color:
+    either brown or black
+
+11. Tattoos:
+   no
+
+12. How much do you love your job:
+    no job, no income- med school is all and it makes me really tired
+
+13. Birthplace:
+   Houston, TX
+
+14. Hometown:
+    Tough call- I'd say I-10 somewhere, i believe the majority of my waking hours are spend in transit between Houston and Austin
+
+15. Current residence:
+   Houston, TX, USA
+
+16. Ever been in love?
+    Yes
+
+17. Been to Africa?
+   nope
+
+18. What color is your bedroom carpet?
+   beige- what a popular color!
+
+19. Been toilet-papered?
+    i don't remember, but my car was bra-and-pantied (god bless the B2)- never did figure out if they were clean or not, but to be safe i washed 'em before i wore 'em
+
+20. Loved somebody so much it made you cry?
+    i suppose (but it may have just been a glandular problem)
+
+21. Been in a car crash/minor wreck?
+    yeah, the same day my tv blew up and the bastards at c-mart wouldn't sell me beer because my i.d. was 2 weeks expired (i was 22)
+
+22. Type of vehicle you drive?
+   '96 Ford Explorer (sans tires o' death)
+
+23. Salad Dressing:
+    Country Italian is pretty good and we all know about the perks of a little ranch dressing every now and then
+
+24. Favorite Number:
+    2004- done with school and deep in debt
+
+25. Quote from a song:
+    ""summer: it turns me upside down; summer, summer, summer:  it's like a merry-go-round""- The Cars
+
+26. Favorite Holiday:
+   isn't today one?
+
+27. Favorite Foods:
+    dolphin, buffalo- anything endangered so, i guess, chinese
+
+28. Favorite day of the week:
+    the one after tests finish
+
+29. Favorite song at the moment:
+    anything a 14 year old girl has never heard of
+
+30. Favorite TV Show:
+    the simpsons or blind date (sorry kasey)
+
+31. Toothpaste:
+   crest
+
+32. Least favorite thing:
+   student loans and hearing promos for crappy reality tv shows
+
+33. Sport to watch:
+   astros and any game involving the cowboys- what's more invigorating than wishing death (or at least defeat) to a bunch of crack-head wife-beating low-lifes
+
+34. Fast Food place:
+   the border of course
+
+35. When was the last time you were in the hospital?
+   never been admitted but i walk through it almost every day
+
+36. Fave drink:
+   water, gatorade (flavored water)
+
+37. Favorite Beer: fat tire es good
+
+38. How many times did you fail your Drivers test?
+   nada
+
+39. Where do you see yourself in 10 years?
+   still paying off loans and i guess doctoring people somewhere somehow
+
+41. Which single store would you choose to Max you credit card:
+  best buy
+
+42. What words or phrases do you overuse?
+  mostly obscenities because they still sound better than medical terms
+
+43. Name the person that you are friends with that lives the farthest away?
+  i guess emily wins again but greg's still stuck in argentina
+
+44. Most annoying thing?
+   katy freeway rush hour traffic- 3/4 of my life has gone to that stretch of road
+
+45. Best thing is:
+   family and friends- i couldn't pay anyone else enough to like me
+
+46. Bedtime:
+    has ranged between 11pm and 9am this summer- during school may forget to sleep, terrible, bloody terrible
+
+47. Who will respond to this fastest?
+     does anyone like me enough to respond?  i figure lisa and susan are begrudging me at the moment, so it'll have to be someone else
+
+48. Who is the person you sent this to that is least likely to respond?
+    kasey walker- ""ummm, alan who?""
+
+___________________________________________________
+GO.com Mail
+Get Your Free, Private E-mail at http://mail.go.com",scott,inbox,1,2.0713253581994273e-05,1
+417,285.txt,<3190765.1075858937458.JavaMail.evans@thyme>,"Thu, 25 Oct 2001 14:36:27 -0700 (PDT)",moshuffle@hotmail.com,m..scott@enron.com,"Fwd: RE: Monster Bash - Friday, October 26th 2001","_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp",scott,inbox,1,0.0049223178603012285,3
+418,291.txt,<27424086.1075858937615.JavaMail.evans@thyme>,"Thu, 25 Oct 2001 21:02:15 -0700 (PDT)",wsmith@wordsmith.org,linguaphile@wordsmith.org,A.Word.A.Day--waspish,"waspish (WOS-pish) adjective
+
+   1. Like a wasp, in behavior (stinging) or in form (slender build).
+
+   2. Easily annoyed; irascible; petulant.
+
+[From wasp, from Middle English waspe, from Old English waesp, from waeps.]
+
+   ""His occasionally waspish sense of humour always derided pomposity and
+   self-regard.""
+   Sue Harper, Obituary: Robert Gray: He Unravelled the Links Between Class
+   and Language, The Guardian (London), Apr 26, 2001.
+
+This week's theme: animal words.
+
+............................................................................
+Why is it that we rejoice at a birth and grieve at a funeral? It is because
+we are not the person involved. -Mark Twain, author and humorist
+(1835-1910)
+
+AWADmail Archives: http://wordsmith.org/awad/awadmail.html
+AWAD Archives:     http://wordsmith.org/awad/archives.html
+Unsubscribe:       http://wordsmith.org/awad/unsubscribe.html
+Privacy Policy:    http://wordsmith.org/awad/privacy.html
+
+Pronunciation:
+http://wordsmith.org/words/waspish.wav
+http://wordsmith.org/words/waspish.ram",scott,inbox,1,0.0008262657943409191,1
+429,326.txt,<17112149.1075861132490.JavaMail.evans@thyme>,"Wed, 16 Jan 2002 08:54:08 -0800 (PST)",tori.kuykendall@rweamericas.com,suzanne.christiansen@enron.com,FW: FW: Beautiful Woman Month!!,"-----Original Message-----
+From: Kiera Ganann  [mailto:kierag@bcbg.com]
+Sent: Wednesday, January 16, 2002 8:37  AM
+To: rhaygood@darbylaw.com; britt214@hotmail.com;  christad5225@yahoo.com; jstauffe@poloralphlauren.com; Barkley Kinkead; Dina  Robins; Krissy
+Subject: FW: FW: Beautiful Woman  Month!!
+
+IT'S BEAUTIFUL WOMAN  MONTH & TAG YOU'RE IT! 
+
+[IMAGE]
+Well, it is and that  means you and me. I'm supposed to send this to
+[IMAGE]
+FIVE BEAUTIFUL  WOMEN, and you are one of them!!! 
+Facts on Figures; 
+There are 3  billion women who don't look like supermodels and 
+only eight who do.  
+Marilyn Monroe wore a size 14.[IMAGE]
+If Barbie was a real woman, she'd have to walk on all fours due 
+to  her proportions. 
+The average woman weighs 144 lb. and wears between a  12-14. 
+One out of every four college aged women has an eating!  disorder.
+[IMAGE]
+The models in the  magazines are airbrushed -- not perfect! 
+A psychological study in 1995  found that three minutes spent 
+looking at a fashion magazine caused 70% of  women to feel depressed, 
+guilty, and shameful.   
+Models  twenty years ago weighed 8% less than the average woman.
+[IMAGE]
+Today they weigh 23%  less.
+[IMAGE]
+~Beauty of a Woman~  
+The beauty  of a woman is not in the clothes she wears, 
+The  figure she carries, or the way she combs her hair. 
+The  beauty of a woman must be seen from her eyes, 
+Because that  is the doorway to her heart, 
+The place where love resides.  
+The beauty of a woman Is not in a facial mole,  
+But true beauty in a woman is reflected in her soul.  
+It is the caring that she lovingly gives,  
+The passion that she shows. 
+The beauty  of a woman 
+With passing years -- only  grows.
+[IMAGE]
+An English professor  wrote the words, ""Woman without her man is nothing,"" on the blackboard and  directed the students to punctuate it correctly. 
+The men wrote: ""Woman,  without her man, is nothing."" 
+The women wrote: ""Woman! Without her, man is  nothing."" 
+The Images of Mother 
+4 YEARS OF AGE ~ My Mommy can  do anything! 
+8 YEARS OF AGE ~ My Mom knows a lot! A whole  lot!
+[IMAGE]
+12 YEARS OF AGE ~ My  Mother doesn't really know quite everything. 
+14 YEARS  OF AGE ~ Naturally, Mother doesn't know that, either. 
+16  YEARS OF AGE ~ Mother? She's hopelessly old-fashioned. 
+18  YEARS OF AGE ~ That old woman? She's way out of date! 
+25  YEARS OF AGE ~ Well, she might know a little bit about it.  
+35 YEARS OF AGE ~ Before we decide, let's get Mom's opinion.  
+45 YEARS OF AGE ~ Wonder what Mom would have thought about  it? 
+65 YEARS OF AGE ~ Wish I could talk it over with Mom.  
+***Please send this to at least  five phenomenal women today in 
+celebration of Women's History Month. 
+If  you do, something good will happen.... YOU will boost another 
+woman's  self-esteem!
+[IMAGE]
+
+-------  End of forwarded message -------",scott,inbox,1,0.019428732670276283,1
+12,869.txt,<19944716.1075846808795.JavaMail.evans@thyme>,"Tue, 11 Apr 2000 07:44:00 -0700 (PDT)",susan.scott@enron.com,wilson.kriegel@enron.com,Re: Inspirational Quote of the Day,"The quote speaks to so many in such personal ways...Obviously you identified 
+with it's message.  Although, I'm not sure about the Dalai Lama comment as he 
+does believe in a power higher than himself.
+
+As for myself...
+
+I am still measuring my powers.  They seem to lie in such varied arenas that 
+I never know what I will discover day-to-day.
+
+As far as tasting the fruits of my passion, you know what they say...the 
+first bite is the sweetest.  And I must say I look forward with great 
+anticipation to sitting down at the table when the time is right.
+
+My place in the world is a combination of one of the guys and the ever 
+idealistic, eternal optimist (i.e. I see what is and yet still hold out hope 
+for more).
+ * I don't believe the sentiment in Return to Me was pure fiction.
+
+Given all of this I am very happy.
+
+Wilson Kriegel@ENRON
+04/11/2000 02:15 PM
+To: Susan M Scott/HOU/ECT@ECT
+cc:  
+Subject: Re: Inspirational Quote of the Day  
+
+I like this..i agree with it....
+I'm still uncertain on the measure of my powers (because there so huge) i 
+have defenetly tasted the fruits of my passion (an desires) ask my ercent ex 
+(shannon) or all the ex that still call me for sex....and my place in the 
+world..wel nothing short then the next dalai Lama..
+I'm pretty happy i must say
+what about you
+
+To be happy you must have taken the measure of your powers; tasted the fruits 
+of your passion and learned your place in the world.
+
+           -- George Santayana",scott,sent,1,0.0031247148400891933,0
+14,855.txt,<30568944.1075846808457.JavaMail.evans@thyme>,"Thu, 13 Apr 2000 06:02:00 -0700 (PDT)",susan.scott@enron.com,lisa.a.meador@chase.com,Re: FWD:neat story,That was amazing.,scott,sent,1,0.007009700474312652,0
+41,840.txt,<28107346.1075846808046.JavaMail.evans@thyme>,"Tue, 18 Apr 2000 06:41:00 -0700 (PDT)",susan.scott@enron.com,gary.stadler@enron.com,Re: Here's to the Journey,"Here's the answer to your question regarding 28.  The depth and complexity 
+are overwhelming.
+
+From: Nicholas J Stephan on 04/18/2000 11:13 AM
+To: Susan M Scott/HOU/ECT@ECT
+cc:  
+Subject: Re: Here's to the Journey  
+
+Thank you.
+
+Nick
+
+From: Benjamin Freeman@ENRON on 04/18/2000 11:28 AM
+To: Susan M Scott/HOU/ECT@ECT
+cc:  
+Subject: Re: Here's to the Journey  
+
+nice.",scott,sent,1,0.004501977248654476,0
+47,713.txt,<17269243.1075846805002.JavaMail.evans@thyme>,"Tue, 29 Aug 2000 03:34:00 -0700 (PDT)",susan.scott@enron.com,gary.stadler@enron.com,You must open this and respond to me TODAY!,Do we need to talk?,scott,sent,1,0.0020047224444702527,1
+54,511.txt,<14147543.1075846800410.JavaMail.evans@thyme>,"Tue, 14 Nov 2000 11:35:00 -0800 (PST)",susan.scott@enron.com,shouan.tang@enron.com,nov 6 support,"---------------------- Forwarded by Susan M Scott/HOU/ECT on 11/14/2000 07:34 
+PM ---------------------------
+
+	Enron Information Technology
+
+	From:  Eduardo Calderon @ ENRON                           11/10/2000 08:11 PM
+
+To: Hal McKinney/NA/Enron@Enron
+cc: Jeremy Wong/HOU/ECT@ECT, Francis S Lim/HOU/ECT@ECT, sscott5@enron.com 
+Subject: nov 6 support
+
+FYI. In general everything went ok today Nov 10.
+
+Susan Scott had some problems with some of the excel spreadsheets she's been 
+running on her machine. The issue here is that the CopyFromRecordset method 
+of a range object is failing. The simple
+fix is to use a user defined function named rsOutput instead of the method. 
+She also mentioned that a process that outputs a text file to the E: drive 
+seems to be failing on her machine but is working fine on Dutch Quigley's 
+machine. She'll provide more detail to support on Monday.
+
+Cheers.
+
+--EdII",scott,sent,1,0.006860611637122094,2
+66,739.txt,<31460860.1075846805601.JavaMail.evans@thyme>,"Wed, 2 Aug 2000 07:30:00 -0700 (PDT)",susan.scott@enron.com,darren.maloney@enron.com,Re: Coming To Houston,"You know I was just teasing, right?  And, no dating is definitely not a bad 
+thing.  As for being or not being fortunate enough, just remember...your good 
+enough, your smart enough and dog-gonnit people like you.  Have fun tomorrow 
+night and try up that fortune.
+
+Darren Maloney@ENRON
+08/02/2000 02:18 PM
+To: Susan M Scott/HOU/ECT@ECT
+cc:  
+Subject: Re: Coming To Houston  
+
+I didn't say who it was.................  Hey, dating isn't a bad thing.
+I actually do it when I am fortunate enough.
+
+Susan M Scott@ECT
+08/02/2000 01:16 PM
+To: Darren Maloney/Corp/Enron@ENRON
+cc:  
+
+Subject: Re: Coming To Houston  
+
+I don't know what your talking about...
+
+(By the way, thanks for the public outing.)",scott,sent,1,0.004676234094467713,1
+74,881.txt,<18778546.1075846809089.JavaMail.evans@thyme>,"Fri, 7 Apr 2000 01:59:00 -0700 (PDT)",susan.scott@enron.com,richard.cross@enron.com,Re: London 6 Apr,"Richard, you can remove my name from the distribution list as I have rotated 
+to a new group and am no longer working in the controls group.  Thank you.
+
+Richard Cross
+04/07/2000 06:25 AM
+To: Daily Reports
+cc:  
+Subject: London 6 Apr",scott,sent,1,0.012264764932548022,4
+114,927.txt,<11938456.1075846810172.JavaMail.evans@thyme>,"Fri, 24 Mar 2000 06:10:00 -0800 (PST)",susan.scott@enron.com,gary.stadler@enron.com,Re: Vacation,"Do you honestly think Tobin can be a substitute for you?  
+
+Gary Stadler
+03/24/2000 01:40 PM
+To: Ganapathy Ramesh/HOU/ECT@ECT, Virendra Patel/HOU/ECT@ECT, Rudi 
+Zipter/HOU/ECT@ECT, Bjorn Hagelmann/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT, 
+Rebecca Phillips/HOU/ECT@ECT, Minal Dalia/HOU/ECT@ECT, Benjamin 
+Freeman/Corp/Enron@ENRON, David Oliver/HOU/ECT@ECT, Liz M Taylor/HOU/ECT@ECT, 
+Stacey W White/HOU/ECT@ECT, Jay Knoblauh/HOU/ECT@ECT, Denae 
+Umbower/HOU/ECT@ECT, Jeremy Mills/Corp/Enron@ENRON, Jerald 
+Surface/HOU/EES@EES, Lisa Kent/LON/ECT@ECT
+cc: Michael E Moscoso/HOU/ECT@ECT, Eugenio Perez/HOU/ECT@ECT, Chris 
+Abel/HOU/ECT@ECT, Tobin Carlson/HOU/ECT@ECT, Susan M Scott/HOU/ECT@ECT, 
+Daniel Falcone/Corp/Enron@ENRON, Michael Benien/Corp/Enron@ENRON 
+Subject: Vacation
+
+I will be out of the office the week of March 27th - March 31st.  Tobin 
+Carlson will assist you in my absence.  
+
+Have a great week.
+
+Gary",scott,sent,1,0.0011604976220703223,0
+145,891.txt,<10438966.1075846809335.JavaMail.evans@thyme>,"Wed, 5 Apr 2000 08:55:00 -0700 (PDT)",susan.scott@enron.com,benjamin.freeman@enron.com,Re: I wish I could claim this as my own.,"Are you experiencing some sort of split personality today?  Should I start 
+referring to you as Ben or MaximMan depending on your responses?",scott,sent,1,0.005138249575506404,0
+146,885.txt,<8877253.1075846809180.JavaMail.evans@thyme>,"Thu, 6 Apr 2000 06:50:00 -0700 (PDT)",susan.scott@enron.com,"gary.stadler@enron.com, tobin.carlson@enron.com",Webster's Word of the Day,"The Word of the Day for April 6 is:=20
+
+                  ambrosia =01=07 \am-BRO-zhuh\ =01=07 (noun)=20
+                  1 a : the food of the Greek and Roman gods b : the ointme=
+nt
+                  or perfume of the gods=20
+                  *2 : something extremely pleasing to taste or smell=20
+                  3 : a dessert made of oranges and shredded coconut=20
+
+                  Example sentence:
+                  ""We feasted that evening as on nectar and ambrosia; and n=
+ot
+                  the least delight of the entertainment was the smile of
+                  gratification with which our hostess regarded us, as we=
+=20
+satisfied
+                  our famished appetites on the delicate fare she liberally
+                  supplied."" (Charlotte Bronte, Jane Eyre)=20
+
+                  Did you know?
+                  ""Ambrosia"" literally means ""immortality"" in Greek; it is =
+a
+                  derivative of the Greek word ""ambrotos,"" meaning ""immorta=
+l,""
+                  which combines the prefix ""a-"" (meaning ""not"") with=20
+""-mbrotos""
+                  (meaning ""mortal""). In Greek and Roman mythology, only
+                  immortals -- gods and goddesses -- could eat ambrosia. Th=
+ose
+                  mythological gods and goddesses also drank ""nectar,"" whic=
+h,=20
+in
+                  its original sense, refers to the ""drink of the gods.""=20
+(Even today,
+                  you'll often find the words ""ambrosia"" and ""nectar"" in ea=
+ch
+                  other's company.) While the ""ambrosia"" of the gods preven=
+ted
+                  death, we mere mortals use ""ambrosia"" in reference to thi=
+ngs
+                  that just taste or smell especially delicious.",scott,sent,1,0.006535862987783081,1
+200,892.txt,<25145591.1075846809358.JavaMail.evans@thyme>,"Wed, 5 Apr 2000 08:23:00 -0700 (PDT)",susan.scott@enron.com,"nicholas.stephan@enron.com, benjamin.freeman@enron.com,",I wish I could claim this as my own.,"""In an age when cloying, dumbed-down Internet ""chat"" threatens to reduce 
+discourse to the linguistic equivalent of casual Fridays, men's-room 
+vernacular is seeping alarmingly past its Pine Sol perimeter, infecting what 
+is left of conversational civility.  Well-articulated sublimation--which has 
+produced some damned fine (and sexy) art, music, and literature over the 
+millennia--is no longer the default mode of expression.   That ageless Hot 
+Boy, Michelangelo's David, could only have been produced through deft 
+restraint.  But try telling that to some WWF instant Adonis with a 
+protein-supplement habit.""
+
+                --Gerri Hirshey",scott,sent,1,0.05271696229319911,0
+225,771.txt,<28097944.1075846806324.JavaMail.evans@thyme>,"Mon, 22 May 2000 01:42:00 -0700 (PDT)",susan.scott@enron.com,"gary.stadler@enron.com, tobin.carlson@enron.com, jkbowles@hotmail.com,",Quote of the Day,"The man who thinks he can do without the world is indeed mistaken; but the
+man who thinks the world cannot do without him is mistaken even worse.
+-Francois, duc de La Rochefoucauld",scott,sent,1,0.005540075271551592,0
+269,570.txt,<23255530.1075846801750.JavaMail.evans@thyme>,"Tue, 17 Oct 2000 02:06:00 -0700 (PDT)",susan.scott@enron.com,cscott_korea@yahoo.com,Messenger,"You need to give me your messenger address so we can ""talk"".",scott,sent,1,0.0010871902926445909,4
+274,772.txt,<30626905.1075846806347.JavaMail.evans@thyme>,"Fri, 19 May 2000 07:08:00 -0700 (PDT)",susan.scott@enron.com,"sunil.dalal@enron.com, benjamin.freeman@enron.com",This isn't necessarily a bad thing to be...,"The Word of the Day for May 19 is:=20
+
+                  weird =01=07 \WEERD\ =01=07 (adjective)=20
+                  *1 : of, relating to, or caused by witchcraft or the=20
+supernatural
+                  : magical=20
+                  2 : of strange or extraordinary character : odd, fantasti=
+c=20
+
+                  Example sentence:
+                  ""Hagar, the witch, chanted an awful incantation over her
+                  kettleful of simmering toads, with weird effect."" (Louisa=
+=20
+May
+                  Alcott, Little Women)=20
+
+                  Did you know?
+                  You may know today's word as a generalized term for anyth=
+ing
+                  unusual, but ""weird"" also has older meanings that are mor=
+e
+                  specific. ""Weird"" derives from the Old English noun ""wyrd=
+,""
+                  essentially meaning ""fate."" By the late 8th century, the=
+=20
+plural
+                  ""wyrde"" had begun to appear in texts as a gloss for=20
+""Parcae,""
+                  the Latin name for the Fates -- three goddesses who spun,
+                  measured, and cut the thread of life. In the 15th and 16t=
+h
+                  centuries, Scots authors employed ""werd"" or ""weird"" in th=
+e
+                  phrase ""weird sisters"" to refer to the Fates. William
+                  Shakespeare adopted this usage in Macbeth, in which the
+                  ""weird sisters"" are depicted as three witches. Subsequent
+                  adjectival use of ""weird"" grew out of a reinterpretation =
+of=20
+the
+                  ""weird"" in Shakespeare.",scott,sent,1,0.006775546696347112,1
+307,74.txt,<18260500.1075846722487.JavaMail.evans@thyme>,"Tue, 22 Feb 2000 09:59:00 -0800 (PST)",susan.scott@enron.com,steven.harris@enron.com,IGS,"Our contract with IGS provides that for any agreement identified by IGS and 
+executed, TW will pay a one-time incentive fee of 3% of the first $15 million 
+of net present value, 2% of the next $10 million of net present value, etc.
+
+The Southern contract associated with the Gallup Expansion is at a rate of 
+$0.205 for 25,000 Dth/d for 5 years.  Using a discount factor of 15%, the net 
+present value of the contract is $6,270,625, so IGS's commission would be 
+$188,118.75.  Since the contract does not specify how NPV will be calculated 
+(I believe we purposely omitted this for whatever reason), we will need to 
+agree on a rate that is fair given the nature of and risk associated with the 
+project.  We should probably use whatever is standard in the industry for 
+this type of project, if that's possible to determine.  I have a call in to 
+James Centilli for his recommendation in this regard, and will let you know 
+what he says.",scott,sent,1,0.006662851634112843,2
+311,48.txt,<7302367.1075846721869.JavaMail.evans@thyme>,"Mon, 24 Jan 2000 02:32:00 -0800 (PST)",susan.scott@enron.com,lorraine.lindberg@enron.com,Burlington,"Lorraine, see the attached.  I added ""Maximum"" and ""Minimum"" to the chart but 
+don't know whether I got it backwards...anyway, let's talk if you have any 
+questions.",scott,sent,1,0.015671435362124064,2
+327,763.txt,<4227981.1075846806140.JavaMail.evans@thyme>,"Fri, 7 Jul 2000 09:15:00 -0700 (PDT)",susan.scott@enron.com,ted.noble@enron.com,Re: Apartment,"Ted, 
+
+I spoke with Shanna a little while ago about your friend and the apartment 
+and she said she was fine with the deal.  Talk to you later.
+
+Susan",scott,sent,1,0.009494021751156378,1
+343,373.txt,<23729425.1075846729615.JavaMail.evans@thyme>,"Mon, 6 Nov 2000 03:03:00 -0800 (PST)",susan.scott@enron.com,ahebert@akingump.com,Christmas wish list,"""Kitty Fun Barbie""
+Complete with Marshmallow the cat (with long, brushable fur), cat toys, 
+little cans of Fancy Feast, and, get this:  a carrier thaqt becomes a litter 
+box!  ""Marshmallow drinks and wets in the litter box.  Scoop up the clumps 
+after she goes.  So real!""",scott,sent,1,0.007783733259650982,1
+358,831.txt,<5115210.1075846807761.JavaMail.evans@thyme>,"Wed, 19 Apr 2000 05:40:00 -0700 (PDT)",susan.scott@enron.com,gary.stadler@enron.com,Not a firm believer...but this is kind of creepy,"AQUARIUS
+
+                   For April 17-23: Travel plans shape up and
+                   morph into much more. Every step you take
+                   seems to branch out into a sea of possibilities --
+                   especially lately. The old rules don't apply
+                   anymore. The idea of signing up for something
+                   and hanging in there until retirement doesn't suit
+                   an innovator like you. Your developing success
+                   will beget an avalanche of more success. Have
+                   your bags packed in preparation for spur of the
+                   moment opportunities and travel necessities.
+                   Your wanderlust is starting to surface in a big
+               way. You want to know more and experience life
+               on a richer level. You're not the same person
+               you were even a year ago. You understand more
+               about yourself. Be open to travel, moving,
+               advanced training, and additional contact with
+               media and publishing. The word is out, Aquarius
+                   -- and hard-to-pass-up offers are already in the
+                   mail. . . .",scott,sent,1,0.0042210341166804,1
+385,172.txt,<7206744.1075846724883.JavaMail.evans@thyme>,"Thu, 11 May 2000 10:17:00 -0700 (PDT)",susan.scott@enron.com,jeffery.fawcett@enron.com,GIR cross-examination,"Here are my standard rules for my witnesses on examination by opposing 
+counsel.  They are worth learning well ahead of time because they can be very 
+difficult to follow.  Memorize these and we'll do fine on cross (assuming we 
+even get any questions).
+
+1.  Listen carefully to the question.
+2.  Answer only that question; do not volunteer more.
+3.  If you don't know for sure what the answer is, just say so.
+4.  If you cannot answer a ""yes"" or ""no"" question with ""yes"" or ""no,"" say so 
+and explain why.",scott,sent,1,0.0027913476048315178,1
+445,624.txt,<25876933.1075846802977.JavaMail.evans@thyme>,"Tue, 26 Sep 2000 09:21:00 -0700 (PDT)",susan.scott@enron.com,julieg@qualcomm.com,Re: Hey,"Part of me is tempted to do the ""taste of your own medicine"" thing, but I was 
+really disappointed that he took that approach (in this case I think email is 
+very cowardly) and don't believe two wrongs make a right.  I insist on taking 
+the high road in this situation no matter how tempting it might be to teach 
+him a lesson.
+
+Susan",scott,sent,1,0.000123814338362227,1
+467,625.txt,<14633899.1075846803001.JavaMail.evans@thyme>,"Tue, 26 Sep 2000 08:41:00 -0700 (PDT)",susan.scott@enron.com,julieg@qualcomm.com,Re: Hey,"I haven't done anything as of yet.  I just really didn't feel like responding 
+to him on Friday (I was still pretty floored by the whole thing) and since 
+he's out of town till tonight I spent yesterday and today figuring out what I 
+want to do.  
+
+I've decided the following...I'm going to give him a call tonight and agree 
+to meet for a drink/chat.  I completely agree with you about regretting the 
+things you don't do more than the things you do - besides I'm dying of 
+curiosity about what he could possibly have to say.  Anyway, I want to try 
+and do it tomorrow night so that I can quite turning it over and over in my 
+head (I am absolutely sick of thinking about it).  I think it will be hard 
+for me to be anything but distant talking to him because, regardless of his 
+reasons, he definitely wasn't very considerate over the last few weeks.  Wish 
+me luck! (Problem is I'm not sure what I really want the outcome to be).
+
+Susan",scott,sent,1,0.019101486938033263,1
+477,779.txt,<30411110.1075846806532.JavaMail.evans@thyme>,"Fri, 12 May 2000 11:51:00 -0700 (PDT)",susan.scott@enron.com,benjamin.freeman@enron.com,Parlez Francais,"Je toujours ai su que le francais se sont penses superieur, je ne me suis pas 
+rendu compte cela etait vrai pour les haut-parleurs francais aussi.",scott,sent,1,0.011731092492807738,2
+497,784.txt,<17009574.1075846806688.JavaMail.evans@thyme>,"Thu, 11 May 2000 04:55:00 -0700 (PDT)",susan.scott@enron.com,benjamin.freeman@enron.com,How can you not be a fan?,"Today we remember Jane Austen, the British writer born on this date in 1775=
+.=20
+Austen depreciated herself as a ""miniaturist"" and a domestic novelist of=20
+restricted scope, but her literary legacy is large. She was also able to la=
+y=20
+self-deprecation aside, however, and in Northanger Abbey she declared that=
+=20
+novels -- her chosen genre -- are works in which ""the greatest powers of th=
+e=20
+mind are displayed, in which the most thorough knowledge of human nature, t=
+he=20
+happiest delineation of its varieties, the liveliest effusions of wit and=
+=20
+humour are conveyed to the world in the best chosen language.""=01(
+
+Austen's work brims with general statements that are contradicted by the=20
+people in her stories. For instance, Pride and Prejudice opens by noting th=
+at=20
+""It is a truth universally acknowledged, that a single man in possession of=
+ a=20
+good fortune, must be in want of a wife."" The book then describes Mrs.=20
+Bennett, mother of a household full of marriageable daughters as ""a woman o=
+f=20
+mean understanding, little information, and uncertain temper."" As Austen=20
+acquaints us with the tale of each daughter's engagements, she=20
+wonders,                    ""For what do we live, but to make sport for our=
+=20
+neighbors and  laugh at them in our turn?""As Austen acquaints us with the=
+=20
+tale of each daughter's engagements, she wonders, ""For what do we live, but=
+=20
+to make sport for our neighbors and laugh at them in our turn?""",scott,sent,1,0.006354281583452082,0
+566,756.txt,<195390.1075846805983.JavaMail.evans@thyme>,"Tue, 18 Jul 2000 04:43:00 -0700 (PDT)",susan.scott@enron.com,ted.noble@enron.com,Every day needs a little dose of levity...,"Fifth grade assignment
+
+The teacher gave her fifth grade class an assignment: 
+Get their parents to tell them a story with a moral at 
+the end of it. The next day the kids came back and one 
+by one began to tell their stories.  
+
+Kathy said, ""My father's a farmer and we have a lot of 
+egg-laying hens.  One time we were taking our eggs to 
+market in a basket on the front seat of the pickup when 
+we hit a bump in the road and all the eggs went flying 
+and broke and made a mess.""  ""And what's the moral of 
+the story?"" Asked the teacher.  ""Don't put all your eggs 
+in one basket!""  ""Very good,"" said the teacher.  
+
+""Now, Lucy?""  
+
+""Our family are farmers too.  But we raise chickens for 
+the meat market.  We had a dozen eggs one time, but when 
+they hatched we only got ten live chicks. And the moral 
+to this story is, don't count your chickens until they're 
+hatched.""  ""That was a fine story Lucy.""
+
+""Johnny do you have a story to share?""  
+
+""Yes, ma'am, my daddy told me this story about my uncle Bob.  
+Uncle Bob was a pilot in Vietnam and his plane got hit.  He 
+had to bail out over enemy territory and all he had was a 
+bottle of whiskey, a machine gun and a machete. He drank the 
+whiskey on the way down so it wouldn't break and then he 
+landed right in the middle of 100 enemy troops.  He killed 
+seventy of them with the machine gun until he ran out of 
+bullets, then he killed twenty more with the machete till the 
+blade broke and then he killed the last ten with his bare hands.""
+""Good heavens,"" said the horrified teacher, ""What kind of moral 
+did your daddy tell you from that horrible story?""
+
+""Don't fuck with Uncle Bob when he's been drinking.""",scott,sent,1,0.000614669052636907,1
+587,420.txt,<29101214.1075846730824.JavaMail.evans@thyme>,"Thu, 30 Nov 2000 02:24:00 -0800 (PST)",susan.scott@enron.com,"steven.harris@enron.com, lindy.donoho@enron.com",Max rate issue on TW,"Steve and Lindy, as I mentioned in our staff meeting, it is probably not=20
+going to be possible to solve our max rate cap dilemma by making a tariff=
+=20
+filing unless we can 1) get FERC to change its mind about its policy that=
+=20
+recourse rates always be available as an alternative to negotiated rates or=
+=20
+2) prove that Transwestern lacks market power and should therefore be allow=
+ed=20
+to charge market based rates.
+
+The following is a very brief outline of what would be required to prove la=
+ck=20
+of market power.  A warning:  lack of market power is very difficult to=20
+prove.  Koch, a pipeline that most in the industry would agree does lack=20
+market power, tried and failed.  The deck is already stacked against us in=
+=20
+TW's case given the withholding of capacity by El Paso's affiliate and the=
+=20
+price conditions in California.  However, we do need to analyze the=20
+possibilities for TW, if not to the Cal. border, then on other parts of our=
+=20
+system.  Additionally, we need to discuss acceptable incentives for shipper=
+s=20
+to pay negotiated rates if we do not end up changing our tariff.
+
+Would you be availabile on Tuesday to discuss this?  Please let me know.  I=
+n=20
+the meantime, here is a summary of FERC's policy on market based rates.
+
+***
+
+To obtain authority to charge market based rates, TW would first have to=20
+request a declaratory order, and in its application provide information=20
+showing it meets the requirements outlined below.  If the Commission finds=
+=20
+all requirements have been met, it will issue an order and TW would then ma=
+ke=20
+the appropriate tariff filing to put market based rates into effect.
+=20
+Application for declaratory order must include:
+
+1.  Detailed description of the services proposed for market-based rate=20
+treatment.  I assume in our case it would be firm transportation service.
+
+2.  A statement defining the relevant product and geographic markets=20
+necessary for establishing the applicant lacks market power with respect to=
+=20
+the services at issue.  The Commission requires a narrow definition of the=
+=20
+market=01(""firm transportation"" is probably narrow enough, but for our purp=
+oses=20
+we might want to narrow it down more (i.e., firm transportation East of=20
+Thoreau).  We have to define substitute services available to shippers=01(o=
+ther=20
+pipelines are a ""good substitute"" only if shippers can obtain the same=20
+quality of service on a timely basis, and if the other pipelines offer such=
+=20
+service at a price that would deter TW from raising its prices more than=20
+10%.  All relevant ""origin markets"" must be defined (Panhandle; West Texas)=
+=20
+as well as ""destination markets,"" and alternatives for shippers in those=20
+markets identified.  Transportation alternatives are only good alternatives=
+=20
+if they provide a netback to shippers that is roughly the same as if they=
+=20
+used TW.  Note that the Commission has rejected capacity release as a good=
+=20
+alternative since it does not guarantee a shipper its desired contract=20
+quantity.
+
+3.  Market share and HHI calculations; discussion of other relevant=20
+competitive factors.  Commission looks at size of market share, mitigating=
+=20
+factors such as ease of entry, and market concentration as measured by HHI.=
+ =20
+Market concentration has to be calculated for each relevant receipt point a=
+nd=20
+delivery point.  HHI is calculated by adding up the total market share and=
+=20
+squaring it.  There is a presumption of no ease of entry for transportation=
+=20
+services  because of the expense involved in constructing facilities.
+
+4.  Proposal for accounting for costs and revenues.",scott,sent,1,0.0011124756446102002,2
+605,192.txt,<16878263.1075846725383.JavaMail.evans@thyme>,"Wed, 17 May 2000 11:06:00 -0700 (PDT)",susan.scott@enron.com,lorraine.lindberg@enron.com,PNM filing: shipper must have title,"When the Commission granted Texas Eastern authority to hold capacity on 
+another pipeline in Texas Eastern Transmission Corporation, 74 FERC P 61,074 
+(1996), it stated that when a pipeline holds capacity on an upstream 
+pipeline, the downstream pipeline's customers may hold title to the gas 
+transported on the upstream pipeline.  The Commission recognized this as one 
+of the limited exceptions to the shipper must have title rule.  Specifically, 
+the Commission stated:  
+
+The downstream pipeline will not hold title to gas shipped on capacity it has 
+acquired on an upstream 
+pipeline. Rather, shippers on the downstream pipeline will hold title to the 
+gas on the upstream 
+pipeline. We will allow a pipeline to hold the upstream capacity; we will 
+not, however, allow the pipeline 
+to hold title to the gas being shipped.  Thus, the downstream pipeline will 
+be the shipper on the upstream 
+pipeline, but will not hold title when the gas is being shipped. This results 
+in a limited exception to the rule 
+that a shipper must hold title to gas being shipped. 
+
+I believe that if we can address the Commission's other concerns about this 
+filing, they will grant a similar waiver for this transaction.  You can feel 
+free to pass this along to your contact at PNM.",scott,sent,1,0.004663334704938238,2
+607,838.txt,<29885614.1075846808002.JavaMail.evans@thyme>,"Tue, 18 Apr 2000 07:26:00 -0700 (PDT)",susan.scott@enron.com,sunil.dalal@enron.com,A barrage of Inspiration,""" To dream anything that you want to dream -
+      that is the beauty of the human mind.
+
+     To do anything you want to do -
+     that is the strength of the human will.
+
+     To trust yourself to test your limits -
+      that is the courage to succeed.""
+
+"" Embrace hard things and your mind will blossom.""
+
+""This is America ENRON. We can do anything here."" -- Ted Turner   Sunil Dalal
+
+""Finish each day and be done with it. You have done what you could; some 
+blunders and absurdities have crept in; forget them
+ as soon as you can. Tomorrow is a new day; you shall begin it serenely and 
+with too high a spirit to be encumbered with your
+ old nonsense.""  -Ralph Waldo Emerson
+
+""To laugh often and much; to win the respect of intelligent people and the 
+affection of children; to earn the appreciation of
+ honest critics and endure the betrayal of false friends; to appreciate 
+beauty, to find the best in others; to leave the world a little
+ better; whether by a healthy child, a garden patch or a redeemed social 
+condition; to know even one life has breathed easier
+ because you have lived. This is the meaning of success.""   -Ralph Waldo 
+Emerson",scott,sent,1,0.015577788686585103,1
+709,135.txt,<21032942.1075846723950.JavaMail.evans@thyme>,"Mon, 17 Apr 2000 06:07:00 -0700 (PDT)",susan.scott@enron.com,vanessa.schulte@enron.com,will question,"Vanessa, I checked with Bill, and the very unsatisfying answer to your 
+question is that it totally depends on how Greg divided the community 
+property with his ex.  He agreed with me that a will is a good idea in any 
+case because you can arrange things so that you avoid legal proceedings and 
+save a lot in taxes!  Our friend Tony Maluski does probate work:  I believe 
+his number is 713-228-7401.  He's a nice guy and I believe him to be 
+competent; however, I think it is a good idea to shop around when you're 
+doing something routine like a will or an uncontested divorce, so I'd advise 
+calling several lawyers and see who you like best and who will give you the 
+best deal.  If I can find some other names/numbers for you, I will.  Hope 
+this helps!",scott,sent,1,0.002025215402261582,2
+731,134.txt,<13688952.1075846723928.JavaMail.evans@thyme>,"Fri, 14 Apr 2000 09:38:00 -0700 (PDT)",susan.scott@enron.com,louis.soldano@enron.com,Re: FERC Announces New Pipeline Interconnect Policy Today/PG&E,I'm available Tuesday also -- just let me know.,scott,sent,1,0.014075236595641138,2
+796,876.txt,<23235976.1075846808957.JavaMail.evans@thyme>,"Fri, 7 Apr 2000 09:14:00 -0700 (PDT)",susan.scott@enron.com,gary.stadler@enron.com,WORD OF THE DAY,"The Word of the Day for April 7 is:=20
+
+                  gadzookery =01=07 \gad-ZOO-kuh-ree\ =01=07 (noun)=20
+                  : the use of archaisms (as in a historical novel)=20
+
+                  Example sentence:
+                  ""Get rid of the gadzookery,"" Bruce's editor cautioned.
+                  ""Mirabella can perfectly well say 'please' instead of=20
+'prithee.'""=20
+
+                  Did you know?
+                  ""Gadzooks . . . you astonish me!"" cries Mr. Lenville in=
+=20
+Charles
+                  Dickens' Nicholas Nickleby. We won't accuse Dickens of
+                  gadzookery (""the bane of historical fiction,"" as historic=
+al=20
+novelist
+                  John Vernon called it in Newsday magazine), because we
+                  assume people actually said ""gadzooks"" back in the 1830s.
+                  That mild oath is an old-fashioned euphemism, so it is=20
+thought,
+                  for ""God's hooks"" (a reference, supposedly, to the nails =
+of=20
+the
+                  Crucifixion). But it's a fine line today's historical=20
+novelist must
+                  toe, avoiding expressions like ""zounds"" and ""pshaw"" and=
+=20
+""tush""
+                  (""tushery"" is a synonym of the newer ""gadzookery,"" which=
+=20
+first
+                  cropped up in the 1950s), as well as ""gadzooks,"" while at=
+=20
+the
+                  same time rejecting modern expressions such as ""okay"" and
+                  ""nice.""",scott,sent,1,0.0048937956976256025,1
+800,692.txt,<16045466.1075846804525.JavaMail.evans@thyme>,"Wed, 6 Sep 2000 07:11:00 -0700 (PDT)",susan.scott@enron.com,ben.freeman@enron.com,What a wonder is a wonderful wit...,"I haven't sent a quote in quite some time, but this one really spoke to me.
+
+Wit makes its own welcome, and levels all distinctions. No dignity, no
+learning, no force of character, can make any stand against good wit. -Ralph
+Waldo Emerson (1803-1882)",scott,sent,1,0.0002500968959617822,0
+802,719.txt,<28188857.1075846805151.JavaMail.evans@thyme>,"Mon, 28 Aug 2000 05:19:00 -0700 (PDT)",susan.scott@enron.com,"ted.noble@enron.com, darren.maloney@enron.com",Cinderella...(I promise this is safe to open),"Cinderella in Her Later Years.......
+
+Cinderella was now 75 years old. After a fulfilling life with the now
+dead
+Prince, she happily sat upon her rocking chair, watching the world go by
+from her front porch, with a cat named Bob for companionship.
+
+One sunny afternoon, out of nowhere, appeared the Fairy Godmother.
+
+Cinderella said ""Fairy Godmother, what are you doing here after all
+these
+years??""
+
+The Fairy godmother replied ""Well Cinderella, since you have lived a
+good,
+wholesome life since we last met, I have decided to grant you 3 wishes.
+
+Is there anything for which your heart still yearns?""
+
+Cinderella was taken aback, overjoyed and after some thoughtful
+consideration, and almost under her breath she uttered her first wish:
+
+""I wish I was wealthy beyond comprehension."" Instantly, her rocking
+chair
+was turned into solid gold. Cinderella was stunned.
+
+Bob, her old faithful cat, jumped off her lap and scampered to the edge
+of
+the porch, quivering with fear. Cinderella said ""Oh thank you, Fairy
+Godmother"".
+
+The Fairy Godmother replied, ""It is the least I can do. What does your
+heart
+want for your second wish?"" Cinderella looked down at her frail body,
+and
+said: ""I wish I was young and full of the beauty of youth again.""
+
+At once, her wish having been desired became reality, and her beautiful
+youthful visage had returned. Cinderella felt stirrings inside her that
+had
+been dormant for years and a long forgotten vigor and vitality began to
+course through her.
+
+Then the Fairy Godmother again spoke ""You have one more wish, what shall
+you
+have?"" Cinderella looks over to the frightened cat in the corner and
+says"";
+""I wish for you to transform Bob, my old cat, into a beautiful, and
+handsome
+young man"".
+
+Magically, Bob suddenly underwent so fundamental a change in his
+biological
+make-up, that when complete he stood before her, a man, so beautiful the
+like of which she nor the world had ever seen, so fair indeed that birds
+began to fall from the sky at his feet.
+
+The Fairy Godmother again spoke: ""Congratulations, Cinderella.
+
+Enjoy your new life."" And, with a blazing shock of bright blue
+electricity,
+she was gone. For a few eerie moments, Bob and Cinderella looked into
+each
+other's eyes, Cinderella sat, breathless, gazing at the most stunningly
+perfect man she had ever seen. Then Bob walked over to Cinderella, who
+sat
+transfixed in her rocking chair, and held her close in his young
+muscular
+arms.
+
+He leaned in close blowing her golden hair with his warm breath as he
+whispered:
+
+""I bet you regret having me neutered now, don't you?""",scott,sent,1,0.0005545112037086408,1
+837,655.txt,<4981475.1075846803683.JavaMail.evans@thyme>,"Mon, 18 Sep 2000 05:29:00 -0700 (PDT)",susan.scott@enron.com,celeahy@hotmail.com,"What to do, what to do?","Hey Corey,
+
+So he's back in town now...The question is what do I do about that?  Should 
+I:  A) Completey ignore him and pretend like there was never anything between 
+us or B) Call him out and confront him with his own cowardess.  I am 
+completely torn on the issue and have actually felt physically ill over the 
+situation the last two days.  Help!!!
+
+Susan",scott,sent,1,0.000495134588693269,1
+853,654.txt,<8529155.1075846803661.JavaMail.evans@thyme>,"Mon, 18 Sep 2000 08:24:00 -0700 (PDT)",susan.scott@enron.com,ashleastu@aol.com,Re: Fwd,"That actually made me cry.
+
+Susan",scott,sent,1,0.00042664461272279297,1
+862,27.txt,<11327085.1075846721396.JavaMail.evans@thyme>,"Wed, 5 Jan 2000 10:13:00 -0800 (PST)",susan.scott@enron.com,lindy.donoho@enron.com,OBAs,"Lindy, do you know offhand whether our OBAs with PG&E and SoCal deviate from 
+the usual 10% tolerance provided for in our tariff form OBA?  If not, who do 
+you think might be able to tell me?",scott,sent,1,0.002347462200405215,2
+882,905.txt,<14344803.1075846809663.JavaMail.evans@thyme>,"Thu, 30 Mar 2000 06:05:00 -0800 (PST)",susan.scott@enron.com,nick.hiemstra@enron.com,Re: Take me out to the ...,You're off.,scott,sent,1,0.016527371033561444,0
+886,31.txt,<14786530.1075846721485.JavaMail.evans@thyme>,"Mon, 10 Jan 2000 06:19:00 -0800 (PST)",susan.scott@enron.com,,Red Cedar,"OK, here's my first attempt.  Although I think Red Cedar's lawyers might be 
+looking for more, they have not specifically requested it, so I decided to 
+stick to making only the statements Ed Meaders mentioned in his 2 voice 
+mails.  I believe this may suffice.",scott,sent,1,0.006056828986266638,2
+897,124.txt,<1032186.1075846723696.JavaMail.evans@thyme>,"Thu, 13 Apr 2000 02:38:00 -0700 (PDT)",susan.scott@enron.com,vanessa.schulte@enron.com,"Re: where there's a will, I want to be in it","Interesting.  I seem to remember that under Texas law, everything goes to the 
+surviving spouse.  Any community property issues between Greg and ex should 
+have been settled in the divorce proceedings.  But it's been a while since I 
+looked -- I will ask Bill for a second opinion.  
+
+In any event, a will is a good idea, especially when kids are involved.  If, 
+God forbid, the worst should happen, you can bet that ex + kids would make 
+life even more difficult for you in what would already be a tough time!  Bill 
+doesn't do wills but he could probably recommend someone who would do a will 
+for cheap.
+
+Vanessa Schulte
+04/11/2000 09:42 AM
+To: sscott3@enron.com
+cc:  
+
+Subject: legal question
+
+Can you ask Bill if he knows anything about wills?  Dena told me that if Greg 
+were to die and we didn't have a will, I would get half and his ex would get 
+the other half for the kids.  Greg disagrees but this is what Dena was told 
+by her lawyer if Curtis were to die.  It's not something I'd like to think 
+about, and it's not like we own that much right now anyway, but when we get a 
+house, that's a different story.
+
+Thanks",scott,sent,1,0.011299267329637819,2
+921,694.txt,<3557658.1075846804570.JavaMail.evans@thyme>,"Wed, 6 Sep 2000 04:27:00 -0700 (PDT)",susan.scott@enron.com,gary.stadler@enron.com,What a wonder is a wonderful wit...,"Wit makes its own welcome, and levels all distinctions. No dignity, no
+learning, no force of character, can make any stand against good wit. -Ralph
+Waldo Emerson (1803-1882)",scott,sent,1,0.012778773069486937,0
